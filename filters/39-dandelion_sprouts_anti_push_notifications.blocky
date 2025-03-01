@@ -14,7 +14,9 @@
 *.smartpush3.info
 *.tatic.cdnativepush.com
 api.growthrx.in
+*.notif.generation-nt.com
 *.api-push.com
+*.bildirimat.com
 *.bildirnet.com
 *.braze.com
 *.cappushino.com
@@ -31,6 +33,7 @@ api.growthrx.in
 *.getnotification.me
 *.irpush.com
 *.krakenoptimize.com
+*.larapush.com
 *.linker.hr
 *.luravius.com
 *.neopush.io
@@ -194,6 +197,8 @@ api.growthrx.in
 *.pushme.magellanotech.it
 *.sdk.chirpyweb.com
 *.vafrike.ru
+*.speraspace.com
+*.sendpush.net
 *.personaclick.com
 *.quickalert.org
 *.ziwelatum.com
@@ -201,7 +206,6 @@ api.growthrx.in
 *.pushly.net
 *.pushmoose.com
 *.cdn-server.live
-*.cdn.larapush.com
 *.nadajotum.com
 *.vokayatus.com
 *.migineg.com
