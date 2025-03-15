@@ -328,6 +328,7 @@
 *.beapasswpn.com
 *.dns.beardic.cn
 *.bebasid.com
+*.bebra.ai
 *.justhost.bedro.cloud
 *.beecomf.xyz
 *.beehivesmp.com
@@ -401,7 +402,6 @@
 *.bloquer.fr
 *.rfree1.blue-shield.at
 *.rfree2.blue-shield.at
-*.www-proxy2.blueboy.cf
 *.bluemood.me
 *.bluesnap.com
 *.blufvpn.com
@@ -443,6 +443,7 @@
 *.browsebridge.com
 *.browsec.com
 *.browser.lol
+*.browserling.com
 *.doh.bt.com
 *.btguard.com
 *.bubbleset.com
@@ -1038,7 +1039,6 @@
 *.dns.edgeburnmedia.com
 *.edgedcircles.com
 *.edgy-dns.com
-*.dns.edison42.dev
 *.dns.editechstudio.com
 *.edpuzzle.space
 *.dns.tuna.tsinghua.edu.cn
@@ -1082,7 +1082,6 @@
 *.ettego.com
 *.arashi.eu.org
 *.armorrush.eu.org
-*.doh.excdn.eu.org
 *.dns.de.futuredns.eu.org
 *.dns.us.futuredns.eu.org
 *.dns.fullaccesstointernet.jp.eu.org
@@ -1090,11 +1089,9 @@
 *.arashi.net.eu.org
 *.sukidayo.eu.org
 *.eurproxy.com
-*.evacraft.xyz
 *.evpn.net
 *.evyy.net
 *.ewon.biz
-*.excitedmurashin.com
 *.expatshield.com
 *.expressapisv2.net
 *.expressvpn.com
@@ -1162,6 +1159,7 @@
 *.filterbypass.me
 *.finalbreaths.xyz
 *.finchvpn.com
+*.fineproxy.org
 *.finevpn.org
 *.antistalkerfree-eu.europe-west1.firebasedatabase.app
 *.xcomvpn-7000b-default-rtdb.firebaseio.com
@@ -1264,7 +1262,6 @@
 *.freevpnsoftware.net
 *.freewebproxy.eu
 *.freewebproxyserver.net
-*.freeworldwideproxy.app
 *.freexite.com
 *.freeyouproxytube.com
 *.freeyoutube.net
@@ -1377,6 +1374,7 @@
 *.google-public-dns-a.google.com
 *.google-public-dns-b.google.com
 *.dns-tunnel-check.googlezip.net
+*.tunnel.googlezip.net
 *.goosevpn.com
 *.performance.gosami.xyz
 *.vpn.gosami.xyz
@@ -1425,7 +1423,6 @@
 *.harbaletsstudy.com
 *.resolver-eu.haringstad.com
 *.adguard.hartley.cloud
-*.hdjptube.site
 *.query.hdns.io
 *.ordns.he.net
 *.heiwanotameno.com
@@ -1459,6 +1456,7 @@
 *.hidemebro.com
 *.hidemefast.net
 *.hidemenow.net
+*.hidemium.io
 *.hidemy.io
 *.hidemy.name
 *.hidemyass.com
@@ -1637,6 +1635,7 @@
 *.itsnotevil.com
 *.pdns.itxe.net
 *.ivacy.com
+*.ivacyvpn.com
 *.ivnkn.xyz
 *.ivpn.net
 *.iwantproxy.com
@@ -1651,7 +1650,6 @@
 *.tj.jamesxue.xyz
 *.janathanmahes-mysharepoint.com
 *.dns.janl.eu
-*.px.jarnus.xyz
 *.jayshaun.com
 *.jellyvpn.com
 *.doh.jeroenhd.nl
@@ -1661,7 +1659,6 @@
 *.jfalling.com
 *.adguard.jfchenier.ca
 *.dns.jhangy.us
-*.dns.jichi.io
 *.dns.jinwoo.dev
 *.dns.jiyi.eu
 *.jkdns.me
@@ -1750,7 +1747,6 @@
 *.adblock.krctech.dev
 *.xray.krnl.eu
 *.kryptovpn.kryptotel.net
-*.adguard.kss.ovh
 *.dns.kukal.cz
 *.dns.kuuhaku.moe
 *.kx-97795-tr.xyz
@@ -1886,6 +1882,7 @@
 *.dns.maybe.icu
 *.mazevpn.com
 *.dns.mbrjun.cn
+*.mc-sft.cn
 *.ispcapi.mcafee.com
 *.msc.mcafee.com
 *.safeconnect.mcafee.com
@@ -1923,7 +1920,6 @@
 *.dns.mihanentalpo.me
 *.dns.mikeliu.org
 *.mikezhang.xyz
-*.milanopuma.ir
 *.minilla.store
 *.miniprox.com
 *.miniprox.info
@@ -2257,6 +2253,7 @@
 *.ns3.opennameserver.org
 *.ns4.opennameserver.org
 *.openproxy.space
+*.openproxylist.com
 *.opentunnel.net
 *.openvpn.cc
 *.openvpn.com
@@ -2315,7 +2312,6 @@
 *.paradise-human.shop
 *.dns.pari.network
 *.parkviewenglish.buzz
-*.parsazr.ir
 *.pashagame456.com
 *.a.passcloud.xyz
 *.i.passcloud.xyz
@@ -2523,6 +2519,7 @@
 *.proxy-123.com
 *.proxy-2014.com
 *.proxy-2015.info
+*.proxy-best.com
 *.proxy-bypass.com
 *.proxy-german.de
 *.proxy-internet.info
@@ -2552,6 +2549,7 @@
 *.proxybuss.com
 *.proxycloud.net
 *.proxycloyd.com
+*.proxycompass.com
 *.proxydrop.com
 *.proxydude.red
 *.proxydude.xyz
@@ -2572,6 +2570,7 @@
 *.proxyist.com
 *.proxyium.com
 *.proxyium.org
+*.proxylister.com
 *.proxylistpro.com
 *.proxyload.net
 *.proxymaster.me
@@ -2596,6 +2595,7 @@
 *.proxyserver.buzz
 *.proxyserver.com
 *.proxyserverlist24.top
+*.proxyshare.com
 *.proxysheep.com
 *.proxysite.cc
 *.proxysite.cloud
@@ -2613,6 +2613,7 @@
 *.proxysurfing.org
 *.proxythis.info
 *.proxytime.net
+*.proxytitan.com
 *.proxytoplay.com
 *.proxyturbo.com
 *.proxyunblock.site
@@ -2725,6 +2726,7 @@
 *.doh.rezhajul.io
 *.newd.rezyro.com
 *.resolver.rferee.dev
+*.rhehrbrb.wiki
 *.rhys1901.biz
 *.ricko.is
 *.dns.rin.sh
@@ -2800,6 +2802,7 @@
 *.schoolnewsletter.us
 *.schoology.college
 *.schoology.help
+*.schoology123.org
 *.schoolooks.com
 *.schoolproxy.co
 *.schooxy.com
@@ -2929,6 +2932,7 @@
 *.dove.soapclient.com
 *.socialnetworkinfo.us
 *.socks-proxy.net
+*.sockslist.us
 *.www-proxy.sodemc.com
 *.clientdns3.softcom.net
 *.free-vpn.en.softonic.com
@@ -2990,8 +2994,11 @@
 *.browse.startpage.com
 *.eu-browse.startpage.com
 *.eu2-browse.startpage.com
+*.error.proxy.startpage.com
+*.proxy2.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
+*.us-browse.startpage.com
 *.us1-browse.startpage.com
 *.us2-browse.startpage.com
 *.dns.startupstack.tech
@@ -3089,7 +3096,6 @@
 *.tailnet.ru
 *.tailscale.com
 *.talk2m.com
-*.tancheetiong.online
 *.tbjr6.com
 *.tbunet.com
 *.tcpvpn.com
@@ -3159,7 +3165,6 @@
 *.theproxysports.com
 *.theproxyultra.com
 *.therabbitvpn.com
-*.dns.theres.one
 *.dns.therifleman.name
 *.thesafety.us
 *.thesiteproxy.com
@@ -3474,18 +3479,6 @@
 *.url10.org
 *.urology.wiki
 *.dns.koala.us.to
-*.nightlymoon.us.kg
-*.luna-is.so-gorgeo.us.kg
-*.mecca-is.so-gorgeo.us.kg
-*.mita-is.so-gorgeo.us.kg
-*.myrra-is.so-gorgeo.us.kg
-*.nana-is.so-gorgeo.us.kg
-*.nindy-is.so-gorgeo.us.kg
-*.nora-is.so-gorgeo.us.kg
-*.nova-is.so-gorgeo.us.kg
-*.sitha-is.so-gorgeo.us.kg
-*.tetty-is.so-gorgeo.us.kg
-*.yussy-is.so-gorgeo.us.kg
 *.webproxy.us.com
 *.us-proxy.org
 *.usa-proxy.org
@@ -3541,7 +3534,6 @@
 *.vload.net
 *.vobas.com
 *.dns.vod11.xyz
-*.dns.vojtat.cz
 *.vonvpn.com
 *.vpn0109.voodonline.fr
 *.vorlif.org
