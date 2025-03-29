@@ -21,13 +21,6 @@
 *.sdk-cache.video.ptqy.gitv.tv
 *.time.video.ptqy.gitv.tv
 *.openapi.vip.ptqy.gitv.tv
-*.app.chat.global.xiaomi.net.iberostar.com
-*.resolver.msg.global.xiaomi.net.iberostar.com
-*.find.api.micloud.xiaomi.net.iberostar.com
-*.us.appbackupapi.micloud.xiaomi.net.iberostar.com
-*.us.micardapi.micloud.xiaomi.net.iberostar.com
-*.us.noteapi.micloud.xiaomi.net.iberostar.com
-*.us.pdc.micloud.xiaomi.net.iberostar.com
 *.mistat.xiaomi.com.download.ks-cdn.com
 *.mistat.india.xiaomi.com.ksyna.net
 *.ad.intl.xiaomi.com.ksyna.net
@@ -46,6 +39,7 @@
 *.hd.mi.com
 *.a.hl.mi.com
 *.idm.iot.mi.com
+*.api.jr.mi.com
 *.pandora.mi.com
 *.adx.tv.mi.com
 *.h5.tv.mi.com
