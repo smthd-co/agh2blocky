@@ -24,6 +24,7 @@
 *.adsdkprod.azureedge.net
 *.adsdkpreprod.afd.azureedge.net
 *.adsdkprod.afd.azureedge.net
+*.msadsscale.azureedge.net
 *.cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 *.location-microsoft-com.b-0005.b-msedge.net
 *.a4.bing.com
@@ -60,7 +61,6 @@
 *.ffc-word-telemetry.officeapps.live.com
 *.frc-visio-telemetry.officeapps.live.com
 *.inc-visio-telemetry.officeapps.live.com
-*.jpc-visio-telemetry.officeapps.live.com
 *.nexus.officeapps.live.com
 *.nexusrules.officeapps.live.com
 *.noc-visio-telemetry.officeapps.live.com
@@ -155,6 +155,7 @@
 *.redir.metaservices.microsoft.com
 *.geover-prod.do.dsp.mp.microsoft.com
 *.track.mp.microsoft.com
+*.msadsscale.microsoft.com
 *.oca.microsoft.com
 *.watson.officeint.microsoft.com
 *.analytics.pstnhub.microsoft.com

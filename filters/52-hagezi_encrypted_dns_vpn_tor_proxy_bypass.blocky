@@ -29,7 +29,6 @@
 *.123music.app
 *.123mymusic.net
 *.123proxy.app
-*.123proxy.biz
 *.123proxy.cool
 *.123proxy.me
 *.123proxyx.com
@@ -55,8 +54,6 @@
 *.dns.240527.xyz
 *.24tunnel.com
 *.doh003.280blocker.net
-*.28383829.com
-*.28383829.site
 *.2a87.com
 *.proxy.2d.su
 *.2fastsurfer.com
@@ -68,6 +65,7 @@
 *.2ub.top
 *.30t.online
 *.doh.30x.me
+*.33bitbank.com
 *.351242444.xyz
 *.dns.354688.xyz
 *.doh.360.cn
@@ -90,7 +88,6 @@
 *.vpn.52oupa.com
 *.www-vpn.52oupa.com
 *.57824.com
-*.5963anrue.lol
 *.family.5ososea.com
 *.kids.5ososea.com
 *.dns.688447.xyz
@@ -165,12 +162,9 @@
 *.ahoj.email
 *.airdns.org
 *.airvpn.org
-*.apple-relay.akamaized.net
 *.akunssh.net
 *.dns.albony.xyz
 *.aldhaferi.store
-*.dnsnl.alekberg.net
-*.dnsse.alekberg.net
 *.alhapi.com
 *.alhvp.com
 *.alidns.com
@@ -241,10 +235,14 @@
 *.ad.anym0re.ru
 *.doh.apad.pro
 *.ag.apollohct.com
-*.apple-relay.apple.com
 *.doh.dns.apple.com
 *.mask-api.fe2.apple-dns.net
-*.mask.apple-dns.net
+*.canary.mask.apple-dns.net
+*.africa-mask.wrr.mask.apple-dns.net
+*.apac-mask.wrr.mask.apple-dns.net
+*.emea-mask.wrr.mask.apple-dns.net
+*.north-america-mask.wrr.mask.apple-dns.net
+*.south-america-mask.wrr.mask.apple-dns.net
 *.appleproxy.com
 *.dns.applewebkit.dev
 *.doh.applied-privacy.net
@@ -271,7 +269,6 @@
 *.astrill.org
 *.astrovpn.co
 *.dandelionsprout.asuscomm.com
-*.dns.asysec.com
 *.adguardhome.atakorah.com
 *.atlasvpn.com
 *.atozproxy.com
@@ -321,7 +318,6 @@
 *.doh.battle.christmas
 *.bazooki-infra.dev
 *.bdns.io
-*.bdns.link
 *.bdns.nu
 *.bdns.pro
 *.beapasswpn.com
@@ -501,7 +497,6 @@
 *.changemyip.com
 *.chaos-system.de
 *.dns.charraud.eu
-*.checkmate.my
 *.dns.chenu.ch
 *.dns.chilimac.net
 *.chillglobal.com
@@ -534,9 +529,7 @@
 *.cloaker.us
 *.cloakvpn.com
 *.cloudbenders.fun
-*.apple-relay.cloudfare.com
 *.dns.cloudfiction.eu
-*.apple-relay.cloudflare.com
 *.dns.233py.com.cdn.cloudflare.net
 *.dns.cloudflare.com
 *.cloudflare-dns.com
@@ -764,6 +757,7 @@
 *.criarssh.com
 *.dns.criena.net
 *.crownproxy.com
+*.croxy.com
 *.croxy.network
 *.croxy.org
 *.croxy.red
@@ -951,7 +945,6 @@
 *.rdu01.dnscry.pt
 *.sea01.dnscry.pt
 *.sgn01.dnscry.pt
-*.sin01.dnscry.pt
 *.sin02.dnscry.pt
 *.sin03.dnscry.pt
 *.sjc01.dnscry.pt
@@ -1040,6 +1033,7 @@
 *.duapps.com
 *.duba.net
 *.home27.duckdns.org
+*.jurre-home.duckdns.org
 *.krtekvpn.duckdns.org
 *.punono.duckdns.org
 *.tuandns.duckdns.org
@@ -1059,7 +1053,6 @@
 *.easyhandshake.com
 *.easyproxy.tech
 *.easyvpn.com
-*.eazy.wtf
 *.ebookdz.com
 *.ebumna.net
 *.ecoweb-network.com
@@ -1070,7 +1063,6 @@
 *.edgedcircles.com
 *.edgy-dns.com
 *.dns.editechstudio.com
-*.edpuzzle.space
 *.dns.tuna.tsinghua.edu.cn
 *.eduacation.lol
 *.adguard.ef67daisuki.club
@@ -1085,7 +1077,6 @@
 *.dns.ellichua.com
 *.emban-networks.com
 *.emeraldeyex.dev
-*.dns.emiliyan.com
 *.encrypt.me
 *.endente.com
 *.adguard.ender.fr
@@ -1147,12 +1138,10 @@
 *.dns.fancyorg.at
 *.farewellkou.click
 *.dns.farshidhakimy.de
-*.fast-receive.com
 *.fastestvpn.com
 *.fastestvpn.info
 *.fastfoxvpn.com
 *.fastfreeproxy.info
-*.apple-relay.fastly-edge.com
 *.fastp.org
 *.fastpro.info
 *.fastproxy.nl
@@ -1232,7 +1221,6 @@
 *.fortniters.info
 *.forwardproxie.com
 *.fproxy.net
-*.francis-proxy.top
 *.frandcomfort.us
 *.free-proxy.com
 *.free-proxy.cz
@@ -1310,7 +1298,6 @@
 *.dns.furrydns.de
 *.doh.futa.app
 *.doh.futa.gg
-*.dns.futuredns.me
 *.g-a-y.pro
 *.gabstorm.com
 *.cluster-0.gac.edu
@@ -1413,6 +1400,7 @@
 *.goosevpn.com
 *.performance.gosami.xyz
 *.vpn.gosami.xyz
+*.gostarlight.xyz
 *.gotrusted.com
 *.gowork.info
 *.gpreport.us
@@ -1438,13 +1426,11 @@
 *.guardster.com
 *.guavi.com
 *.dns2.guidocioni.it
-*.gumm.org
 *.dns.gutwe.in
 *.gvirabi.com
 *.gwopboyded.com
 *.gztech.me
 *.h-vpn.org
-*.h0w.cc
 *.dns.hahnjo.de
 *.dns.haka.se
 *.dns.hakim.one
@@ -1460,7 +1446,6 @@
 *.adguard.hartley.cloud
 *.query.hdns.io
 *.ordns.he.net
-*.heiwanotameno.com
 *.us-ny-alula.heliumcloud.cc
 *.dns.hellozhao.com
 *.helpmehide.net
@@ -1531,7 +1516,6 @@
 *.holavpnextension.com
 *.holavpnrussia.com
 *.holax.io
-*.holyubvpn.com
 *.beta.holyunblocker.org
 *.home-server.store
 *.homemail.info
@@ -1559,9 +1543,9 @@
 *.doh.hottis.de
 *.howdy.id
 *.hoxx.com
+*.hoxx.net
 *.hoyofun.xyz
 *.hshh.org
-*.dns.hshoe.cn
 *.hsselite.com
 *.html.cafe
 *.httpdserver.info
@@ -1601,7 +1585,6 @@
 *.iij.jp
 *.ikarosalpha.xyz
 *.dns.ikataruto.com
-*.ikhebdorst.nl
 *.iksde.com
 *.ilumu.com
 *.ilysk.lol
@@ -1624,7 +1607,6 @@
 *.indiaproxy.win
 *.indo-ssh.com
 *.dns.indust.me
-*.dns.indybanipal.com
 *.dns.inforlogia.com
 *.doh.infracell.net
 *.infvpn.com
@@ -1772,6 +1754,7 @@
 *.dns1.klcd.eu
 *.dns2.klcd.eu
 *.klcknerrip.com
+*.knowurcson.store
 *.knvpn.net
 *.ko-18948-tr.xyz
 *.proxy.kokecoco.me
@@ -1791,6 +1774,7 @@
 *.adblock.krctech.dev
 *.xray.krnl.eu
 *.kryptovpn.kryptotel.net
+*.dns.kugoapps.com
 *.dns.kukal.cz
 *.dns.kusoneko.moe
 *.dns.kuuhaku.moe
@@ -1972,7 +1956,6 @@
 *.mitmproxy.org
 *.doh.mmmalia.com
 *.dns.mnet-online.de
-*.mnrv.trade
 *.dns.mo0on15.com
 *.moamao.shop
 *.dnstls.mobik.com
@@ -2432,6 +2415,7 @@
 *.helios.plan9-dns.com
 *.kronos.plan9-dns.com
 *.pluton.plan9-dns.com
+*.draco.plan9-ns2.com
 *.play5r.com
 *.playproxy.com
 *.secure-dns.pleumkungz.com
@@ -2626,6 +2610,7 @@
 *.proxyist.com
 *.proxyium.com
 *.proxyium.org
+*.www-cdn.proxyiumi.com
 *.proxylister.com
 *.proxylistpro.com
 *.proxyload.net
@@ -2684,7 +2669,6 @@
 *.dns.psociety.de
 *.ptoserver.com
 *.publicdnsserver.com
-*.pukanuragan.ru
 *.dns.pumpkinvrar.com
 *.pupilproxy.com
 *.puredns.org
@@ -2984,6 +2968,7 @@
 *.slickvpn.com
 *.dns.slinkyman.net
 *.smartdnsproxy.com
+*.lunarsync.smartfoloo.space
 *.dns.smartguard.io
 *.smartproxy.com
 *.smartydns.com
@@ -3054,8 +3039,11 @@
 *.ams2.startpage.com
 *.browse.startpage.com
 *.eu-browse.startpage.com
+*.eu1-browse.startpage.com
 *.eu2-browse.startpage.com
 *.error.proxy.startpage.com
+*.proxy1.startpage.com
+*.proxy2.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
 *.us-browse.startpage.com
@@ -3262,6 +3250,7 @@
 *.tmhhd.tk
 *.tnvpn.com
 *.d.toairs.com
+*.tokit.site
 *.tonvpn.com
 *.toolara.net
 *.dot.tooli.ca
@@ -3714,7 +3703,6 @@
 *.waitfree.us
 *.walln.com
 *.dns.wang.art
-*.wantaquddin.com
 *.dns.wargan.io
 *.abel.waringer-atg.de
 *.dns.warma.me
@@ -3829,6 +3817,7 @@
 *.dns.xusqui.com
 *.xvbelink.com
 *.xvpn.io
+*.dns.xwdmw.xyz
 *.v2.xx3210766.live
 *.dns.yameenassotally.com
 *.2.dnscrypt-cert.browser.yandex.net

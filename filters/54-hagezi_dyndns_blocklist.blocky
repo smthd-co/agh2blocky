@@ -175,11 +175,11 @@
 *.cloudns.asia
 *.cloudns.be
 *.cloudns.biz
-*.cloudns.cc
 *.cloudns.ch
 *.cloudns.cl
 *.cloudns.cx
 *.cloudns.in
+*.cloudns.info
 *.cloudns.org
 *.cloudns.pro
 *.cloudxns.net
@@ -247,6 +247,7 @@
 *.ddnslive.com
 *.ddnss.ch
 *.ddnss.de
+*.ddnss.eu
 *.ddnss.org
 *.ddnssec.de
 *.de-a.org
@@ -481,7 +482,6 @@
 *.forss.to
 *.forumz.info
 *.fragmentary.info
-*.free-ddns.com
 *.freeddns.com
 *.freeddns.org
 *.freeddns.uk
@@ -680,6 +680,7 @@
 *.iownyour.org
 *.ip-ddns.com
 *.ip-dynamic.com
+*.ipnodns.ru
 *.ipq.co
 *.iprowave.com
 *.ipv64.de
@@ -1271,6 +1272,7 @@
 *.tekkennetwork.com
 *.texasdollies.com
 *.tftpd.net
+*.thaieasydns.com
 *.thatip.com
 *.thddns.net
 *.the-button.com
@@ -1317,6 +1319,8 @@
 *.usa.cc
 *.uzhi.ru
 *.vankin.de
+*.vantechddns.com
+*.vantechdns.com
 *.vctel.com
 *.ve3.info
 *.venez.fr
