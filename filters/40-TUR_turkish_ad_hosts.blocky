@@ -276,6 +276,8 @@
 *.api.taps.io
 *.api.tw06.xlmc.sec.miui.com
 *.api.useinsider.com
+*.api-dataroid.akbank.com
+*.api-dataroid.akode.com
 *.api-eu.bidmachine.io
 *.api-js.datadome.co
 *.api-public.addthis.com
@@ -624,6 +626,8 @@
 *.counter.yadro.ru
 *.countly.fibabanka.com.tr
 *.countly.iyzico.com
+*.countly.teb.com.tr
+*.countly.vakifbank.com.tr
 *.cp.pushwoosh.com
 *.cpro.baidustatic.com
 *.cr.frontend.weborama.fr
@@ -712,6 +716,7 @@
 *.device-metrics-us-2.amazon.com
 *.devices.carnivalmobile.com
 *.di.rlcdn.com
+*.digital-analytics.burgan.com.tr
 *.digital-vakifbank-reklam-web.tk
 *.diken.xyz
 *.direct-events-collector.spot.im
@@ -854,8 +859,6 @@
 *.geniuslinkcdn.com
 *.geo.ads.audio.thisisdax.com
 *.geo.yahoo.com
-*.geoim.bloomberght.com
-*.geoim.hurriyet.com
 *.geoloc.hurriyet.com.tr
 *.geolocation.onetrust.com
 *.gercekkampanyareklami.com
