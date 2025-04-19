@@ -238,6 +238,7 @@
 *.ddns.name
 *.ddns.net
 *.ddns.us
+*.ddns-dvr.com
 *.ddns5.com
 *.ddnsapp.com
 *.ddnsfree.com
@@ -907,6 +908,8 @@
 *.musterihizmetleri.com
 *.mwop.net
 *.my.to
+*.my-vigor.de
+*.my-wan.de
 *.my03.com
 *.myactivedirectory.com
 *.myaddr.dev
@@ -1254,6 +1257,8 @@
 *.surfnet.ca
 *.suroot.com
 *.swtest.ru
+*.syno-ds.de
+*.synology-diskstation.de
 *.synoserver.com
 *.syntereo.com
 *.sysadminetworks.com
@@ -1313,6 +1318,7 @@
 *.ufcfan.org
 *.ufodns.com
 *.ugo.si
+*.uk.ms
 *.uk.to
 *.unibutton.com
 *.unitedhardwood.com
