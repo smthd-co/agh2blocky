@@ -54,6 +54,7 @@
 *.233py.com
 *.dns.240527.xyz
 *.24tunnel.com
+*.educational-site.24x7.hk
 *.doh003.280blocker.net
 *.28383829.com
 *.2a87.com
@@ -61,6 +62,7 @@
 *.2fastsurfer.com
 *.2fastsurfer.eu
 *.2fastsurfer.us
+*.namenims.fr.to.2fine.de
 *.2proxy.de
 *.2proxyweb.com
 *.2r34.com
@@ -162,7 +164,6 @@
 *.adultproxy.men
 *.advancedvpn.com
 *.aerodrorne.vip
-*.affcdn.net
 *.affsoft.cc
 *.shield.afixer.app
 *.agmath.xyz
@@ -219,7 +220,6 @@
 *.dns.anon.no
 *.anonine.com
 *.anonproxy.eu
-*.anonproxy.org
 *.anonvpn.io
 *.anonwebproxy.com
 *.anonymitynetwork.com
@@ -232,7 +232,6 @@
 *.anonymous-proxy-servers.net
 *.anonymousblog.info
 *.anonymouse.org
-*.anonymousengine.com
 *.anonymousvpn.info
 *.anonymousvpn.org
 *.anonymox.net
@@ -251,13 +250,6 @@
 *.doh.apad.pro
 *.ag.apollohct.com
 *.doh.dns.apple.com
-*.mask-api.fe2.apple-dns.net
-*.canary.mask.apple-dns.net
-*.africa-mask.wrr.mask.apple-dns.net
-*.apac-mask.wrr.mask.apple-dns.net
-*.emea-mask.wrr.mask.apple-dns.net
-*.north-america-mask.wrr.mask.apple-dns.net
-*.south-america-mask.wrr.mask.apple-dns.net
 *.appleproxy.com
 *.dns.applewebkit.dev
 *.doh.applied-privacy.net
@@ -291,7 +283,6 @@
 *.atris.cyou
 *.dohtrial.att.net
 *.atvsh.ir
-*.dns.auapi.fun
 *.aurora-softworks.xyz
 *.auto-aufladen.de
 *.avanquestusa.com
@@ -309,6 +300,7 @@
 *.award-vpn.com
 *.awebproxy.com
 *.awhoer.net
+*.sakura-site-rammerhead.ax1951.com
 *.axaxa.fun
 *.anyralnestridentrodinfisxu.ayrnatales.net
 *.azirevpn.com
@@ -321,7 +313,7 @@
 *.doh1.b-cdn.net
 *.doh2.b-cdn.net
 *.freevpnme.b-cdn.net
-*.b-dns.se
+*.hola-client-cdn4.b-cdn.net
 *.b0xedpr0x.cyou
 *.dns.b33.space
 *.i.am.selling.b33r.us
@@ -338,6 +330,7 @@
 *.doh.battle.christmas
 *.bazooki-infra.dev
 *.bdns.io
+*.bdns.link
 *.bdns.pro
 *.beapasswpn.com
 *.dns.beardic.cn
@@ -376,7 +369,6 @@
 *.bingle.icu
 *.bingle.pw
 *.ns3.bit-trail.nl
-*.bit123.biz
 *.dns.bitdefender.net
 *.fra-dns.bitdefender.net
 *.iow-dns.bitdefender.net
@@ -771,6 +763,7 @@
 *.cool-proxy.net
 *.coolbits.org
 *.coolproxy.org
+*.dns.cooluc.com
 *.coproxy.io
 *.corecloak.com
 *.doh.cornes.me
@@ -1061,7 +1054,6 @@
 *.dontblockme.org
 *.dontfilter.us
 *.dns.dooks.uk
-*.doomshadow.com
 *.dot.pub
 *.dns.dotnet.win
 *.dotvpn.com
@@ -1093,7 +1085,6 @@
 *.dvprovider.icu
 *.dns.dyn1.de
 *.ueni.dyndns.org
-*.resolver2.dyndnsinternetguide.com
 *.adbox-v9.dynipv6.de
 *.im-in-the-thick-of-it-everybody-knows.dynorex.com
 *.gustamadh.dynv6.net
@@ -1119,11 +1110,13 @@
 *.dns.edgeburnmedia.com
 *.edgedcircles.com
 *.edgy-dns.com
+*.dns.editechstudio.com
 *.dns.tuna.tsinghua.edu.cn
 *.eduacation.lol
 *.educationdean.us
 *.adguard.ef67daisuki.club
 *.tor.eff.org
+*.dns.efficientdocuments.com
 *.hole.elbschloss.xyz
 *.dns.elemental.software
 *.elephantvpn.com
@@ -1207,6 +1200,7 @@
 *.dns.fancyorg.at
 *.farewellkou.click
 *.dns.farshidhakimy.de
+*.tenhh.farted.net
 *.fastestvpn.com
 *.fastestvpn.info
 *.fastfoxvpn.com
@@ -1260,7 +1254,6 @@
 *.fishproxy.com
 *.fitnessdepotprices.com
 *.fixproxy.com
-*.dns.fizz.studio
 *.flarquix.xyz
 *.flashpull.com
 *.flashput.net
@@ -1365,7 +1358,6 @@
 *.freevpnplanet.com
 *.freevpnsoftware.net
 *.freewebproxy.eu
-*.freewebproxyserver.net
 *.www-server.freewebsproxy.com
 *.freexite.com
 *.freeyouproxytube.com
@@ -1385,7 +1377,6 @@
 *.doh.futa.app
 *.doh.futa.gg
 *.g-a-y.pro
-*.gabstorm.com
 *.cluster-0.gac.edu
 *.cluster-1.gac.edu
 *.galeben.fr
@@ -1464,8 +1455,6 @@
 *.global-proxy.com
 *.globalchatinc.com
 *.globalssh.net
-*.globaltrx.com
-*.globalvpn.info
 *.dns.api.globus.org
 *.dns.api.preview.globus.org
 *.dns.api.integration.globuscs.info
@@ -1495,7 +1484,6 @@
 *.vpn.gosami.xyz
 *.gostarlight.xyz
 *.gotrusted.com
-*.gowork.info
 *.gpreport.us
 *.dot.libredns.gr.com
 *.gracarno.com
@@ -1505,7 +1493,6 @@
 *.gratisproxy.nl
 *.gratisvpn.com
 *.greatestfreeproxy.com
-*.greenpass.info
 *.greenproxy.net
 *.greenssh.com
 *.dnsblock.grisumedia.de
@@ -1558,6 +1545,7 @@
 *.hide.mn
 *.hide-me.org
 *.hide-my-ip.com
+*.hide-my-ip.org
 *.hideallip.com
 *.hideandgo.com
 *.hideapplication.com
@@ -1616,8 +1604,10 @@
 *.holavpn.net
 *.holavpnextension.com
 *.holavpnrussia.com
+*.holavpnworld.com
 *.holax.io
 *.beta.holyunblocker.org
+*.kyrgyzstan-travel.home.kg
 *.mythica.home.kg
 *.home-server.store
 *.homemail.info
@@ -1680,9 +1670,6 @@
 *.webproxy.ich-war-hier.de
 *.icitek.com
 *.mask.icloud.com
-*.mask-api.icloud.com
-*.mask-boot.icloud.com
-*.mask-canary.icloud.com
 *.mask-h2.icloud.com
 *.icpsuawn1zy5amys.com
 *.tienpham.id.vn
@@ -1815,6 +1802,7 @@
 *.green2.jnraptor.net
 *.vps1.jnraptor.net
 *.vps2.jnraptor.net
+*.narp.fr.to.joe.dj
 *.dns.joey01245.nl
 *.vpn.jogjacloud.com
 *.adguard.johanliebert.top
@@ -2045,7 +2033,6 @@
 *.masterssh.com
 *.masthisis.ir
 *.dns.mateo.ovh
-*.adsadkjsadjksakldjxx.math-solver.online
 *.dns.mathewakhil.online
 *.mathhelpnow.site
 *.mathlearning.tech
@@ -2104,7 +2091,6 @@
 *.doh.mmmalia.com
 *.dns.mnet-online.de
 *.dns.mo0on15.com
-*.moamao.shop
 *.dnstls.mobik.com
 *.mobilejump.mobi
 *.mobilevpn.net
@@ -2155,6 +2141,7 @@
 *.dns.vmath.my.id
 *.ssl-proxy.my-addr.com
 *.my-proxy.com
+*.my-safe-net.com
 *.myatris.sbs
 *.mybestvpn.info
 *.mycelium.site
@@ -2173,7 +2160,6 @@
 *.myprivateproxy.net
 *.myproxy.ca
 *.myproxy.help
-*.myproxy.info
 *.myproxy.link
 *.myproxy.lol
 *.myproxysite.org
@@ -2298,7 +2284,6 @@
 *.dns.ningkelle.id
 *.ninjabrowse.com
 *.ninjacloak.com
-*.ninjaproxy.eu
 *.ninjavpn.io
 *.ninjaweb.xyz
 *.nirbytes.com
@@ -2437,6 +2422,7 @@
 *.sandbox.opendns.com
 *.opengw.net
 *.resolver4.dns.openinternet.io
+*.openips.cc
 *.ns1.opennameserver.org
 *.ns2.opennameserver.org
 *.ns3.opennameserver.org
@@ -2525,7 +2511,6 @@
 *.perfect-privacy.com
 *.perfectvpn.net
 *.perlproxy.com
-*.dns.pernika.net
 *.darya.persiannit.net
 *.persianreserve.ir
 *.personalvpn.biz
@@ -2535,6 +2520,7 @@
 *.pesemes.ir
 *.dns.petqa.ru
 *.adguard.pggns.de
+*.phantompeer.com
 *.dns.phillipjberry.net
 *.photonsecure.com
 *.phpbido.com
@@ -2573,7 +2559,6 @@
 *.pkrreaperr.me
 *.pktriot.net
 *.pkw-aufladen.de
-*.placenetworks.com
 *.plainproxies.com
 *.helios.plan9-dns.com
 *.kronos.plan9-dns.com
@@ -2590,7 +2575,6 @@
 *.pm9352-bd.xyz
 *.xcxx.pointed.cc
 *.pointtoserver.com
-*.polandgrows.com
 *.polargrizzly.com
 *.polaris.cx
 *.polisitogel.accountant
@@ -2668,7 +2652,6 @@
 *.prohome.info
 *.prointern.info
 *.project-evoex.de
-*.propage.info
 *.dns.propheci.xyz
 *.prostovpn.org
 *.vpn-api.proton.me
@@ -2733,14 +2716,12 @@
 *.proxy-best.com
 *.proxy-bypass.com
 *.proxy-german.de
-*.proxy-internet.info
 *.proxy-n-vpn.com
 *.proxy-search.com
 *.proxy-seller.com
 *.proxy-site.net
 *.proxy-works.com
 *.proxy-youtube.com
-*.proxy-youtube.net
 *.proxy0101.com
 *.proxy2014.net
 *.proxy2link.com
@@ -3126,6 +3107,7 @@
 *.dnsovertls2.sinodun.com
 *.dnsovertls3.sinodun.com
 *.sinovpn.com
+*.waermoster.sistemasplenario.ar
 *.sitdns.com
 *.site2unblock.com
 *.siteblockedbypass.com
@@ -3182,7 +3164,6 @@
 *.scienceandmore.spacetechnology.net
 *.spacevpn.io
 *.spanish101.college
-*.spanproxy.com
 *.sparklabs.com
 *.doh-01.spectrum.com
 *.doh-02.spectrum.com
@@ -3233,11 +3214,8 @@
 *.ams2.startpage.com
 *.browse.startpage.com
 *.eu-browse.startpage.com
-*.eu1-browse.startpage.com
 *.eu2-browse.startpage.com
 *.error.proxy.startpage.com
-*.proxy1.startpage.com
-*.proxy2.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
 *.us-browse.startpage.com
@@ -3326,6 +3304,7 @@
 *.surfsuark.com
 *.surfwebsite.org
 *.dns.surobe.com
+*.surprise.pics
 *.surtshark.com
 *.dns.sv-zauner.at
 *.dns.svoi.dev
@@ -3357,7 +3336,6 @@
 *.dns1.techeasy.org
 *.vpn.technicule.info
 *.doh.technochat.in
-*.technofix.ir
 *.dns.technologycage.com
 *.dns.technostriker.com
 *.rx.techomespace.com
@@ -3451,6 +3429,7 @@
 *.tinfoil-is-ass.xyz
 *.dns.tipsy.coffee
 *.titaniumnetwork.org
+*.titantunnelvpn.com
 *.dns.tls-data.de
 *.tlsext.com
 *.tlz.asia
@@ -3500,7 +3479,6 @@
 *.resolv1.trash.net
 *.resolv2.trash.net
 *.resolv3.trash.net
-*.travelvpn.info
 *.travelvpn.net
 *.ns.trcnet.fi
 *.consumervpn.trendmicro.com
@@ -3514,6 +3492,7 @@
 *.trust.zone
 *.trustedproxies.com
 *.truta.org
+*.trxnfor.com
 *.dns.tryk.app
 *.doh.ibr.cs.tu-bs.de
 *.tubeprox.com
@@ -3634,7 +3613,6 @@
 *.unblocked4u.net
 *.unblocked4u.org
 *.unblocked5.com
-*.unblocked9.info
 *.unblockedarabic.com
 *.unblockedbay.com
 *.unblockedbook.net
@@ -3738,6 +3716,7 @@
 *.resolver.unstoppable.io
 *.untraceable.us
 *.untracer.com
+*.unvpn.org
 *.dns.unx.io
 *.updatedproxies.com
 *.uproxy.online
@@ -3763,6 +3742,7 @@
 *.uswebproxy.com
 *.uswebproxy.net
 *.utopianpal.com
+*.willitwork.utrealestatedreamteam.com
 *.utube.cc
 *.utunnel.io
 *.uvpn.me
@@ -3791,7 +3771,6 @@
 *.videonew.online
 *.videoproxy.site
 *.videounblock.com
-*.videounblocked.com
 *.videounblocker.net
 *.vidproxy.com
 *.viewyoutube.net
@@ -3808,6 +3787,7 @@
 *.dns.vod11.xyz
 *.vonvpn.com
 *.vpn0109.voodonline.fr
+*.lanschool.leno.vopros.kz
 *.vorlif.org
 *.vornz.com
 *.vpernet.com
@@ -4006,7 +3986,6 @@
 *.my.worksheetsforteachers.org
 *.noturmotherlol.worksheetsforteachers.org
 *.pdf.worksheetsforteachers.org
-*.workstudyplay.com
 *.worldgravityapp.com
 *.worldvpn.net
 *.worldwideproxy4u.win
@@ -4051,6 +4030,7 @@
 *.common.dot.dns.yandex.net
 *.family.dot.dns.yandex.net
 *.safe.dot.dns.yandex.net
+*.yapidor.pro
 *.yasosy.pro
 *.dns.yatima.tv
 *.lion.yazilimatolye.com
@@ -4090,7 +4070,6 @@
 *.yxorproxy.com
 *.adg.yybyy.wiki
 *.dns.daemon.za.net
-*.zacebookpk.com
 *.adguard.zachitect.com
 *.zagbit.com
 *.zakaria.website
