@@ -54,6 +54,7 @@
 *.ads-api-o.api.leiniao.com
 *.ads-api.tiktok.com
 *.ads-api.twitter.com
+*.ads-img-al.xhscdn.com
 *.ads-img-qc.xhscdn.com
 *.ads-marketing-vivofs.vivo.com.cn
 *.ads-sdk-api.ranfenghd.com
@@ -70,6 +71,7 @@
 *.ads.music.126.net
 *.ads.pinterest.com
 *.ads.pubmatic.com
+*.ads.raidrive.com
 *.ads.servebom.com
 *.ads.service.kugou.com
 *.ads.tiktok.com
@@ -526,6 +528,7 @@
 *.p3-tt.byteimg.com
 *.p6-be-pack-sign.pglstatp-toutiao.com
 *.pagead2.googlesyndication.com
+*.pay.sboot.cn
 *.pcdn.xmcdn.com
 *.pcm-img.zhls.qq.com
 *.pgdt.gtimg.cn
@@ -731,6 +734,7 @@
 *.widgets.pinterest.com
 *.wildcard.moatads.com.edgekey.net
 *.win.gdt.qq.com
+*.wn.x.jd.com
 *.ws.sj.qq.com
 *.wv.inner-active.mobi
 *.wwads.cn
