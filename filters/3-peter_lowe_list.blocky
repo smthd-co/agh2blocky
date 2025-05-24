@@ -323,6 +323,7 @@
 *.ads-bilek.com
 *.ads-dev.pinterest.com
 *.ads-game-187f4.firebaseapp.com
+*.ads-img.mozilla.org
 *.ads-twitter.com
 *.ads.365.mk
 *.ads.5ci.lt
@@ -523,6 +524,7 @@
 *.ads.powweb.com
 *.ads.printscr.com
 *.ads.prisacom.com
+*.ads.prod.webservices.mozgcp.net
 *.ads.program3.com
 *.ads.psd2html.com
 *.ads.pubmatic.com
@@ -3340,7 +3342,6 @@
 *.wheredoyoucomefrom.ovh
 *.whirlwealth.com
 *.whiskyqueue.com
-*.whispa.com
 *.whisperingcascade.com
 *.whisperingcrib.com
 *.whisperingsummit.com

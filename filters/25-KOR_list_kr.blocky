@@ -77,7 +77,6 @@
 *.api.botad.kr
 *.adimg.cgv.co.kr
 *.ad.cgv.co.kr
-*.veta.naver.com
 *.naverpa-phinf.pstatic.net
 *.ad2.mimint.co.kr
 *.wwwads.seoul.co.kr
@@ -203,10 +202,12 @@
 *.pagead2.googlesyndication.com
 *.safeframe.googlesyndication.com
 *.adservice.google.com
+*.ad.qanda.ai
 *.ntkimg.cloud
 *.ttse.b-cdn.net
 *.i.keezip.com
 *.awd.spochak.com
+*.veta.naver.com
 *.planad.net
 *.aedi.ai
 *.mobon.net
