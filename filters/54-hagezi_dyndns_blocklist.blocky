@@ -83,7 +83,6 @@
 *.authorizeddns.org
 *.autoipset.com
 *.avandns.com
-*.awiki.org
 *.ax.lt
 *.b0ne.com
 *.b0tnet.com
@@ -237,7 +236,6 @@
 *.ddns.name
 *.ddns.net
 *.ddns.us
-*.ddns-dvr.com
 *.ddns5.com
 *.ddnsapp.com
 *.ddnsfree.com
@@ -838,7 +836,6 @@
 *.line.pm
 *.linkpc.net
 *.linux-site.net
-*.linux70.ru
 *.linuxd1.com
 *.linuxdigital.org
 *.litecsys.com
@@ -1326,7 +1323,6 @@
 *.venez.fr
 *.venez.net
 *.verymad.net
-*.viamisoftware.com
 *.vicinanza.org
 *.viewdns.net
 *.viiic.net
@@ -1342,6 +1338,7 @@
 *.wakingmoon.com
 *.wan64.de
 *.wanip.ch
+*.h4g3z1-dyndns.web.app
 *.webhop.biz
 *.webhop.info
 *.webhop.me

@@ -200,11 +200,13 @@
 *.b-ring-fallback.msedge.net
 *.c-ring.msedge.net
 *.c-ring-fallback.msedge.net
+*.dual-s-ring.msedge.net
 *.fp.msedge.net
 *.k-ring.msedge.net
 *.k-ring-fallback.msedge.net
 *.ln-ring.msedge.net
 *.ln-ring-fallback.msedge.net
+*.s-ring.msedge.net
 *.s-ring-fallback.msedge.net
 *.t-ring.msedge.net
 *.t-ring-fallback.msedge.net
@@ -356,6 +358,7 @@
 *.word-telemetry.wac.trafficmanager.net
 *.win-global-asimov-leafs-events-data.trafficmanager.net
 *.dc.services.visualstudio.com
+*.h4g3z1-native.winoffice.web.app
 *.activity.windows.com
 *.ceuswatcab01.blob.core.windows.net
 *.ceuswatcab02.blob.core.windows.net
