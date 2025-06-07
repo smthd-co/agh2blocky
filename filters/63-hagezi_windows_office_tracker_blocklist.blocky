@@ -307,7 +307,6 @@
 *.atm-settingsfe-prod-geo2.trafficmanager.net
 *.beacons.trafficmanager.net
 *.bf-analytics-tracker-tm.trafficmanager.net
-*.bf-tracker-release-tm.trafficmanager.net
 *.bingads.trafficmanager.net
 *.bingadsresources.trafficmanager.net
 *.collection-location-livenet.trafficmanager.net
