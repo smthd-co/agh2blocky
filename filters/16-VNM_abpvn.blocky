@@ -1820,24 +1820,26 @@ ox.appnext.com
 sdk.appnext.com
 www.appnext.com
 ads.api.vungle.com
-vungle.com
+adx.ads.vungle.com
+akamai.vungle-cdn.vungle.com
 api.vungle.com
 bd.vungle.com
 billboard.vungle.com
 cdn-lb.vungle.com
 ci.vungle.com
-data.vungle.com
 data-ext.vungle.com
+data.vungle.com
 influxdb2.vungle.com
+ingest-qa.kube-prod.vungle.com
 ingest.vungle.com
 jaeger.vungle.com
 kubana.vungle.com
-ingest-qa.kube-prod.vungle.com
+logs.ads.vungle.com
 ltv-data-api.kube-prod.vungle.com
 ltv-spark-webui.kube-prod.vungle.com
 monitoring.vungle.com
 v.vungle.com
-akamai.vungle-cdn.vungle.com
+vungle.com
 www.vungle.com
 ad.qq.com
 aegis.qq.com
@@ -10628,8 +10630,6 @@ ssindserving.com
 r.apkpure.net
 report.apkpure.net
 t.apkpure.net
-events.statsigapi.net
-statsigapi.net
 adcs-ap.myappsget.com
 adcs-ue.myappsget.com
 rqmob.com
@@ -10981,6 +10981,35 @@ prd1.personalization.centech.glulive.com
 prd1.revid.centech.glulive.com
 berryessa.stats.live-video.net
 player.stats.live-video.net
+toponadss.com
+adx-os-bid.toponadss.com
+adx-os.toponadss.com
+adx-sg-req.toponadss.com
+adx-sg.toponadss.com
+adx-vg-req.toponadss.com
+adx-vg.toponadss.com
+adx.toponadss.com
+api.toponadss.com
+da.toponadss.com
+datk.toponadss.com
+img.toponadss.com
+tk-sg.toponadss.com
+tk.toponadss.com
+www.toponadss.com
+bridgeoos.com
+adx-os-bid.bridgeoos.com
+adx-os.bridgeoos.com
+adx-sg-req.bridgeoos.com
+adx-sg.bridgeoos.com
+api.bridgeoos.com
+da.bridgeoos.com
+datk.bridgeoos.com
+tk-sg.bridgeoos.com
+tk.bridgeoos.com
+www.bridgeoos.com
+birdgesdk.com
+aa.birdgesdk.com
+pitk.birdgesdk.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -12086,6 +12115,12 @@ loges.vietnamplus.vn
 logfr.vietnamplus.vn
 logru.vietnamplus.vn
 logzh.vietnamplus.vn
+dantocmiennui-log.baotintuc.vn
+en-log.vietnamplus.vn
+es-log.vietnamplus.vn
+fr-log.vietnamplus.vn
+ru-log.vietnamplus.vn
+zh-log.vietnamplus.vn
 log.dantocmiennui.vn
 logkm.dantocmiennui.vn
 logzh.dantocmiennui.vn
@@ -12547,6 +12582,7 @@ log.baocaobang.vn
 log.baodatviet.vn
 log.baodauthau.vn
 log.baogialai.com.vn
+log.baohatinh.vn
 log.baolaocai.vn
 log.baomoi.com
 log.baonghean.vn
@@ -13882,6 +13918,7 @@ aulteeby.net
 aungudie.com
 ausoafab.net
 autchoog.net
+authoaxoms.net
 autjaetpxhj.com
 auto-bannertausch.de
 automatedrepsturmoil.com
@@ -13931,6 +13968,7 @@ b58ncoa1c07f.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
+baccytorve.com
 backbeatmedia.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -14033,6 +14071,7 @@ baypops.com
 baywednesday.com
 bbbpromos.org
 bbelements.com
+bbyloavu.com
 bcaojrbriciw.com
 bcfads.com
 bcloudhost.com
@@ -14109,6 +14148,7 @@ bikrurda.net
 billboard.cz
 bilqi-omv.com
 bimlocal.com
+binomnet3.com
 bitads.net
 bitcoinsports.org
 bizrate.com
@@ -14292,6 +14332,7 @@ capsizehatlessprude.com
 captainbicycle.com
 captify.co.uk
 carambo.la
+carbarnbonang.shop
 carbonads.net
 caribedkurukh.com
 carryingfarmerlumber.com
@@ -15004,11 +15045,13 @@ ellcurvth.com
 eltontry.com
 emarketer.com
 embed.sendtonews.com
+embercascademaple.com
 emblemexceptionscorer.com
 emediate.dk
 emerse.com
 emhnyqdeuwtnrh.com
 emjcd.com
+emsi.livetwo.store
 emxdigital.com
 encloselavanga.com
 encodehelped.com
@@ -15250,6 +15293,7 @@ fyljifajkqe.com
 fziwzaalp.com
 g0push.com
 ga-ads.com
+ga.looserokaying.shop
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -15357,6 +15401,7 @@ goldbach.com
 goldspotmedia.com
 goldstats.com
 goldtrailmotorlodge.com
+golnkz.com
 gondolagnome.com
 goodnesstamper.com
 goodnightsurveys.com
@@ -15546,6 +15591,7 @@ hpikarkucasz.com
 hpimavpico.com
 hppvkbfcuq.com
 hrjbylofyso.com
+hscozgoqffn.com
 htlbid.com
 httpool.com
 htyqiwzunj.com
@@ -15556,11 +15602,13 @@ huhskyavngw.com
 humandemand.com
 hunchlastlysluice.com
 huppontic.com
+hurarwjrirti.com
 hurkarubypaths.com
 hurricanedigitalmedia.com
 huskinessimminentstylus.com
 huskypartydance.com
 hutchieshode.com
+hvxnlmjx.com
 hw.zuimeitianqi.com
 hwpnocpctu.com
 hxgqqxopf.com
@@ -15755,6 +15803,7 @@ jenonaw.com
 jerboasjourney.com
 jewgn8une.com
 jf71qh5v14.com
+jfan1.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jfjle4g5l.com
@@ -15807,6 +15856,7 @@ justicejudo.com
 justrelevant.com
 justwebads.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
 jyhlgpkn.com
 k.iinfo.cz
 kaffnet.com
@@ -15985,8 +16035,10 @@ liveintent.com
 liverail.com
 livezombymil.com
 lizardslaugh.com
+lj.ochreargue.shop
 lkhbcpwpyecs.com
 llink.site
+llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -16189,6 +16241,7 @@ miayarus.com
 microstatic.pl
 microticker.com
 midgetmaying.com
+midnightlotusgrove.com
 midpopedge.com
 mifoqnwi.com
 mikayla.phd
@@ -16680,7 +16733,6 @@ pagefair.com
 pagerank-server7.de
 pageranktop.com
 pagiwp.com
-paikoasa.tv
 pajnutas.com
 palaceunlituntouched.com
 palaroleg.guru
@@ -17007,6 +17059,7 @@ pukqysdsgt.com
 pulse360.com
 pulseadnetwork.com
 pulvinioreodon.com
+pumywyczbks.com
 punyplant.com
 puppyderisiverear.com
 pupspu.com
@@ -17042,6 +17095,7 @@ q.azcentral.com
 qa-ads.nobid.com
 qa.shboshbok.com
 qahntenkyf.com
+qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -17177,6 +17231,7 @@ refpa4293501.top
 refraintsarcoma.com
 refraintupaiid.com
 regardviolas.shop
+regletsminings.shop
 regnow.com
 regulationprivilegescan.top
 reinvigorate.net
@@ -17830,6 +17885,7 @@ tidy-mark.com
 tieszhu.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
 tinybar.com
 tipcatscarola.com
 tipsembankment.com
@@ -17876,7 +17932,6 @@ toplist.cz
 toplist.pornhost.com
 toplistcity.com
 topmmorpgsites.com
-toponadss.com
 toprevenuecpmnetwork.com
 toprevenuegate.com
 topsearcher.com
@@ -17895,6 +17950,7 @@ touchads.com
 touchclarity.com
 touphudipodou.net
 tour.brazzers.com
+tpmagqvjzgvos.com
 tpnads.com
 tpudapafr.com
 trac.mediaiqdigital.com
@@ -18030,6 +18086,7 @@ ugroocuw.net
 uhealth.care
 uhland24.de
 uitopadxdy.com
+ujqwhqjckhscl.com
 ukbanners.com
 uktwvhfezyvxn.com
 ul.xiphiidbachel.com
@@ -18146,6 +18203,7 @@ velocecdn.com
 velocitycdn.com
 velsirtohoosh.net
 velti.com
+velvetarrowhawk.com
 venetrigni.com
 ventivmedia.com
 vericlick.com
@@ -18175,6 +18233,7 @@ viiadr.com
 vikawjobtar.com
 viliaff.com
 vindicosuite.com
+vingtunacroter.top
 vionito.com
 vipicmou.net
 virleth.com
@@ -18203,6 +18262,7 @@ voosaivege.com
 voredi.com
 vounaipu.net
 voupsauk.com
+vpldfujttsdfj.com
 vpn-explained.com
 vpon.com
 vqhlhfjmvcvxw.com
@@ -18317,6 +18377,7 @@ widget.privy.com
 widgetbucks.com
 widgets.coinmarketcap.com
 widow5blackfr.com
+wijwunrcoo.com
 wikfuttupw.com
 wikia-ads.wikia.com
 wildedbarley.com
@@ -18552,6 +18613,7 @@ yqmxfz.com
 yrhnw7h63.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yuilop.com
@@ -18590,6 +18652,7 @@ zikroarg.com
 zimpolo.com
 zintext.com
 zipazvzu.com
+zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zkyrzoqc.com
@@ -18612,6 +18675,7 @@ zuqalzajno.com
 zvetokr2hr8pcng09.com
 zwnoeqzsuz.com
 zxc.world
+zy.eilaeliza.top
 2xclick.ru
 3gl.net
 a.apkpure.com
@@ -18708,6 +18772,7 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.iterable.com
 api.prooffactor.com
 api.quantumgraph.com
+api.statsig.com
 api.taps.io
 api.usebutton.com
 api.wipmania.com
@@ -18854,6 +18919,7 @@ events.ocdn.eu
 events.redditmedia.com
 events.shoplytics.com
 events.split.io
+events.statsigapi.net
 everestjs.net
 eviltracker.net
 evt.mxplay.com
@@ -19069,7 +19135,6 @@ playtomic.com
 ponos.zeronaught.com
 poole-collector-prod.n3twork.com
 popupmaker.com
-prodregistryv2.org
 promotionengine.com
 prooffactor.com
 propeller-tracking.com

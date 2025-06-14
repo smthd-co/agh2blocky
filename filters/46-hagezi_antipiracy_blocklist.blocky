@@ -3701,7 +3701,6 @@
 *.fxp-terminal.info
 *.pre.fyp.nl
 *.fzmovies.host
-*.fzmovies.net
 *.fzmovies.stream
 *.fzmovies.website
 *.fzmovies-series.com
@@ -6410,7 +6409,6 @@
 *.pahe.in
 *.pahe.ink
 *.pahe.li
-*.pahe.ph
 *.paidmovies.com
 *.paitara.com
 *.pallok.com
@@ -7105,6 +7103,7 @@
 *.bt.rer.lol
 *.ipv4.rer.lol
 *.ipv6.rer.lol
+*.tracker.rescuecrew7.com
 *.residentz.cx
 *.torrent.resonatingmedia.com
 *.respawn.ca

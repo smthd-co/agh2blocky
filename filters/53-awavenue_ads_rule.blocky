@@ -157,7 +157,6 @@
 *.analysis.chatglm.cn
 *.analysis.yozocloud.cn
 *.analytics-api.samsunghealthcn.com
-*.analytics.google.com
 *.analytics.pinterest.com
 *.analytics.pointdrive.linkedin.com
 *.analytics.query.yahoo.com
@@ -587,6 +586,7 @@
 *.sdk-cache.video.ptqy.gitv.tv
 *.sdk.1rtb.net
 *.sdk.ad.smaato.net
+*.sdk.adx.adwangmai.com
 *.sdk.cferw.com
 *.sdk.e.qq.com
 *.sdk.hzsanjiaomao.com
