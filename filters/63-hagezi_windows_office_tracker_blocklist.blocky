@@ -300,6 +300,7 @@
 *.c.za.msn.com
 *.zmetrics.msn.com
 *.diagnostics.office.com
+*.diagnostics-eudb.office.com
 *.measure.office.com
 *.measure.office.net
 *.ads-msn-com-profile.trafficmanager.net
