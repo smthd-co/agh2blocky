@@ -282,6 +282,7 @@
 *.data.mistat.india.xiaomi.com
 *.data.mistat.rus.xiaomi.com
 *.data.mistat.xiaomi.com
+*.datacollection.uve.weibo.com
 *.datk.anythinktech.com
 *.de.tynt.com
 *.diagnosis.ad.xiaomi.com
@@ -659,7 +660,6 @@
 *.tdsdk.xdrig.com
 *.telemetry.sdk.inmobi.com
 *.tencent-dtv.m.cn.miaozhen.com
-*.terms-drcn.platform.dbankcloud.cn
 *.test.ad.xiaomi.com
 *.tj.b.qq.com
 *.tj.video.qq.com
