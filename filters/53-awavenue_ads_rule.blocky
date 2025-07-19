@@ -112,6 +112,7 @@
 *.adsmind.gdtimg.com
 *.adsmind.ugdtimg.com
 *.adsp.xunlei.com
+*.adstat.izuiyou.com
 *.adstats.tencentmusic.com
 *.adstore-1252524079.file.myqcloud.com
 *.adstore-index-1252524079.file.myqcloud.com
@@ -181,6 +182,7 @@
 *.api-adservices.apple.com
 *.api-gd.hiaiabc.com
 *.api.ad.xiaomi.com
+*.api.anythinktech.com
 *.api.e.kuaishou.com
 *.api.htp.hubcloud.com.cn
 *.api.hzsanjiaomao.com
@@ -273,9 +275,11 @@
 *.config.unityads.unity3d.com
 *.cpc-service-square.aiclk.com
 *.cpro.baidustatic.com
+*.crash2.zhihu.com
 *.crashlyticsreports-pa.googleapis.com
 *.csjplatform.com
 *.cws-cctv.conviva.com
+*.da.anythinktech.com
 *.data-sdk-uuid-log.d.meituan.net
 *.data.ads.oppomobile.com
 *.data.chsmarttv.com
@@ -283,7 +287,6 @@
 *.data.mistat.rus.xiaomi.com
 *.data.mistat.xiaomi.com
 *.datacollection.uve.weibo.com
-*.datk.anythinktech.com
 *.de.tynt.com
 *.diagnosis.ad.xiaomi.com
 *.dig.bdurl.net
@@ -363,6 +366,7 @@
 *.httpdns.bcelive.com
 *.httpdns.ocloud.oppomobile.com
 *.hugelog.fcbox.com
+*.huichuan-mc.sm.cn
 *.huichuan.sm.cn
 *.hw-ot-ad.a.yximgs.com
 *.hw-p2p-pull.video-voip.com
@@ -374,6 +378,7 @@
 *.i.l-new.inmobicdn.net
 *.i.l.inmobicdn.net
 *.iad.apple.com
+*.iad.g.163.com
 *.iadctest.qwapi.com
 *.iadsdk.apple.com
 *.iadworkbench.apple.com
@@ -507,6 +512,7 @@
 *.mssdk.zijieapi.com
 *.mtj.baidu.com
 *.nadvideo2.baidu.com
+*.nex.163.com
 *.nmetrics.samsung.com
 *.notes-analytics-events.apple.com
 *.notify.sec.miui.com
@@ -663,6 +669,7 @@
 *.test.ad.xiaomi.com
 *.tj.b.qq.com
 *.tj.video.qq.com
+*.tk.anythinktech.com
 *.tmead.y.qq.com
 *.tmeadcomm.y.qq.com
 *.tmfmazu-wangka.m.qq.com
@@ -785,3 +792,4 @@
 *.ytx-file.110route.cn
 *.zeus.ad.xiaomi.com
 *.zhihu-web-analytics.zhihu.com
+*.zxid-m.mobileservice.cn

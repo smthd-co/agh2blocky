@@ -307,6 +307,7 @@
 *.adsdk.trafficmanager.net
 *.agps-location-livenet.trafficmanager.net
 *.analytics.trafficmanager.net
+*.analytics-listener.trafficmanager.net
 *.atm-settingsfe-prod-geo2.trafficmanager.net
 *.beacons.trafficmanager.net
 *.bf-analytics-tracker-tm.trafficmanager.net
