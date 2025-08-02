@@ -2,6 +2,7 @@
 *.measure.office.com.akamaized.net
 *.in.applicationinsights.azure.com.albertk12.org
 *.in.appcenter.ms
+*.ingest.appcenter.ms
 *.js.cdn.applicationinsights.io
 *.js0.cdn.applicationinsights.io
 *.js1.cdn.applicationinsights.io
@@ -149,6 +150,7 @@
 *.analyticspixel.microsoft.com
 *.applicationinsights.microsoft.com
 *.pipe.aria.microsoft.com
+*.collector.azure.microsoft.cloud
 *.collector.azure.microsoft.scloud
 *.azurewatson.microsoft.com
 *.azurewatsontest.microsoft.com
