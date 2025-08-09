@@ -192,7 +192,6 @@
 *.api.ssp.xcultur.com
 *.api.statsig.com
 *.api.touch-moblie.com
-*.api.yfanads.com
 *.api5-normal-quic-lf.ixigua.com
 *.apiyd.my91app.com
 *.app-measurement.com
@@ -477,10 +476,8 @@
 *.mazu.m.qq.com
 *.mbdlog.iqiyi.com
 *.mcs.zijieapi.com
-*.metrics.data.hicloud.com
 *.metrics.icloud.com
 *.metrics.mzstatic.com
-*.metrics2.data.hicloud.com
 *.metrika.yandex.ru
 *.mi.gdt.qq.com
 *.miav-cse.avlyun.com
@@ -495,6 +492,7 @@
 *.mobads.baidu.com
 *.mobaliyun.res.mgtv.com
 *.mobile.da.mgtv.com
+*.mobilead.kuwo.cn
 *.mobilelog.upqzfile.com
 *.monitor-ads-test.huan.tv
 *.monitor-uu.play.aiseet.atianqi.com
@@ -594,7 +592,6 @@
 *.sdk-cache.video.ptqy.gitv.tv
 *.sdk.1rtb.net
 *.sdk.ad.smaato.net
-*.sdk.adx.adwangmai.com
 *.sdk.cferw.com
 *.sdk.e.qq.com
 *.sdk.hzsanjiaomao.com
@@ -653,10 +650,7 @@
 *.t.teads.tv
 *.t.track.ad.xiaomi.com
 *.t002.ottcn.com
-*.t1.a.market.xiaomi.com
 *.t1.teads.tv
-*.t2.a.market.xiaomi.com
-*.t3.a.market.xiaomi.com
 *.t7z.cupid.iqiyi.com
 *.t7z.cupid.ptqy.gitv.tv
 *.tangram.e.qq.com
@@ -736,7 +730,6 @@
 *.us.l.qq.com
 *.usr-api.aiclk.com
 *.v.110route.cn
-*.v.adintl.cn
 *.v.adx.hubcloud.com.cn
 *.v1-ad.video.yximgs.com
 *.v2-ad.video.yximgs.com
@@ -799,3 +792,13 @@
 *.zeus.ad.xiaomi.com
 *.zhihu-web-analytics.zhihu.com
 *.zxid-m.mobileservice.cn
+*.1rtb.com
+*.a.market.xiaomi.com
+*.adintl.cn
+*.adx.adwangmai.com
+*.data.hicloud.com
+*.log.aliyuncs.com
+*.ubixioe.com
+*.vlion.cn
+*.yfanads.com
+*.zhangyuyidong.cn
