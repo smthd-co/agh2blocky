@@ -223,8 +223,10 @@
 *.bgg.baidu.com
 *.bianxian.com
 *.bingads.microsoft.com
+*.biz.weibo.com
 *.bj.ad.track.66mobi.com
 *.books-analytics-events.apple.com
+*.bootpreload.uve.weibo.com
 *.browsercfg-drcn.cloud.dbankcloud.cn
 *.bsrv.qq.com
 *.bugly.qq.com
@@ -358,6 +360,7 @@
 *.heads-ak.spotify.com.edgesuite.net
 *.heads-fa.spotify.com
 *.hexagon-analytics.com
+*.hlog.bigda.com
 *.hm.baidu.com
 *.hmma.baidu.com
 *.hotupgrade.hpplay.cn
@@ -484,6 +487,7 @@
 *.micro-xdb.com
 *.mini-prog-drm.vodplayvideo.net
 *.miui-fxcse.avlyun.com
+*.mlog.bigda.com
 *.mmgame.qpic.cn
 *.mnqlog.ldmnq.com
 *.moatads.com
@@ -720,6 +724,7 @@
 *.umengacs.m.taobao.com
 *.umengjmacs.m.taobao.com
 *.umini.shujupie.com
+*.union-mlog.bigda.com
 *.union.baidu.cn
 *.union.baidu.com
 *.update.avlyun.sec.miui.com

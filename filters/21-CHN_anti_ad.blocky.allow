@@ -2,7 +2,6 @@
 *.ads.taboola.com
 *.autocomplete.clearbit.com
 *.chart-embed.service.newrelic.com
-*.logo.clearbit.com
 *.succeedscene.com
 *.tracker.eu.org
 *.stats.uptimerobot.com
@@ -49,5 +48,6 @@
 *.download.falco.org
 *.ad-block.dns.adguard.com
 *.app.powerbi.com
+*.tube.e.kuaishou.com
 *.log.mmstat.com
 *.ad-gone.com
