@@ -146,7 +146,7 @@
 *.dmc.ads-int.microsoft.com
 *.ui.ads-int.microsoft.com
 *.adsdk.microsoft.com
-*.adsstatic.microsoft.com
+*.beta.adsstatic.microsoft.com
 *.adsstatic-int.microsoft.com
 *.advertising.microsoft.com
 *.analyticspixel.microsoft.com
@@ -256,8 +256,6 @@
 *.g00.msn.com
 *.c.gr.msn.com
 *.h.msn.com
-*.h1.msn.com
-*.h2.msn.com
 *.h6.msn.com
 *.c.hk.msn.com
 *.c.id.msn.com
@@ -321,7 +319,6 @@
 *.beacons.trafficmanager.net
 *.bf-analytics-tracker-tm.trafficmanager.net
 *.bingads.trafficmanager.net
-*.bingadsresources.trafficmanager.net
 *.collection-location-livenet.trafficmanager.net
 *.collector-main.trafficmanager.net
 *.tracker.flightview.com.trafficmanager.net
