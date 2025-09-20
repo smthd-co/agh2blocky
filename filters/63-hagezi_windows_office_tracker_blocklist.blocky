@@ -20,9 +20,6 @@
 *.inference-app-gateway.eastus2.cloudapp.azure.com
 *.inference-app-gateway.koreacentral.cloudapp.azure.com
 *.inference-app-gateway.northeurope.cloudapp.azure.com
-*.azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com
-*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
-*.azsc-bingads-westus.westus.cloudapp.azure.com
 *.collector.azure.cn
 *.js.monitor.azure.com
 *.adsdkpreprod.azureedge.net
@@ -173,7 +170,6 @@
 *.ieonline.microsoft.com
 *.location.microsoft.com
 *.redir.metaservices.microsoft.com
-*.geover-prod.do.dsp.mp.microsoft.com
 *.track.mp.microsoft.com
 *.msadsscale.microsoft.com
 *.oca.microsoft.com
