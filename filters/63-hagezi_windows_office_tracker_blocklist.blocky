@@ -315,6 +315,7 @@
 *.beacons.trafficmanager.net
 *.bf-analytics-tracker-tm.trafficmanager.net
 *.bingads.trafficmanager.net
+*.ch-asimov-leafs-events-data.trafficmanager.net
 *.collection-location-livenet.trafficmanager.net
 *.collector-main.trafficmanager.net
 *.tracker.flightview.com.trafficmanager.net

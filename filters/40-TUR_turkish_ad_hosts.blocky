@@ -63,6 +63,7 @@
 *.aax-eu.amazon-adsystem.com
 *.aax-fe.amazon-adsystem.com
 *.aax-us.amazon-adsystem.com
+*.aax-us-east-retail-direct.amazon.com
 *.abundantservantexact.com
 *.ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 *.acdn.adnxs.com
@@ -284,11 +285,13 @@
 *.api-stg.ensonhaber.com
 *.api16-access-gcp.pangle.io
 *.api16-access-sg.pangle.io
+*.api16-access-wf-sg.pangle.io
 *.api2.amplitude.com
 *.api2.branch.io
 *.api3.siftscience.com
 *.apis.kostprice.com
 *.app.adjust.com
+*.app.adjust.io
 *.app.adjust.net.in
 *.app.adjust.world
 *.app.chat.xiaomi.net
@@ -327,7 +330,6 @@
 *.attr.appsflyer.com
 *.auction.unityads.unity3d.com
 *.audid-api.taobao.com
-*.audit-tcfv2.cmp.quantcast.com
 *.authbe.sec.intl.miui.com
 *.avhtaapxml.com
 *.avlsh.visilabs.net
@@ -581,6 +583,7 @@
 *.cluster.awmdelivery.com
 *.cm.everesttech.net
 *.cm.mgid.com
+*.cmp.quantcast.com
 *.cmp.uniconsent.com
 *.cms.quantserve.com
 *.cnt.nuvid.com
@@ -1236,6 +1239,7 @@
 *.odr.mookie1.com
 *.offer.slgnt.eu
 *.offerwall.yandex.net
+*.ogads-pa.clients6.google.com
 *.oglenreklamiiaa.net
 *.oglenreklamiixs.net
 *.oglenvaktireklamms.net
