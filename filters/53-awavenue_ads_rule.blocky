@@ -228,6 +228,8 @@
 *.bj.ad.track.66mobi.com
 *.books-analytics-events.apple.com
 *.bootpreload.uve.weibo.com
+*.browser.events.data.msn.cn
+*.browser.events.data.msn.com
 *.browsercfg-drcn.cloud.dbankcloud.cn
 *.bsrv.qq.com
 *.bugly.qq.com
@@ -489,7 +491,6 @@
 *.mini-prog-drm.vodplayvideo.net
 *.miui-fxcse.avlyun.com
 *.mlog.bigda.com
-*.mmgame.qpic.cn
 *.mnqlog.ldmnq.com
 *.moatads.com
 *.mobads-logs.baidu.com
