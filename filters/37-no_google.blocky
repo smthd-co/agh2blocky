@@ -32,6 +32,7 @@
 *.bg-call-donation-dev.goog
 *.bg-call-donation.goog
 *.brightbytes.net
+*.chronicle.security
 *.chromecastexperiments.com
 *.chromeenterprise.google
 *.chromexperiments.com
@@ -291,6 +292,7 @@
 *.igoogle.com
 *.kaggle.com
 *.looker.com
+*.loon.com
 *.near.by
 *.ns-tld1.charlestonroadregistry.com
 *.papy.co.jp
@@ -957,6 +959,7 @@
 *.urchin.com
 *.urkkqhhehq.com
 *.us-central1-events-d07ac.cloudfunctions.net
+*.us-central1-ipgeolocation-414906.cloudfunctions.net
 *.uv9l56g4e9.com
 *.uyxk2yye5z.com
 *.uyxyuxj198.com
@@ -1573,10 +1576,6 @@
 *.youtubegaming.com
 *.ytimg.com
 *.fitbit.com
-*.ast.corp.fitbit.com
-*.corp.fitbit.com
-*.est.corp.fitbit.com
-*.corp.fitbit.com
 *.accounts.nest.com
 *.admin-migration.nest.com
 *.admin.nest.com
