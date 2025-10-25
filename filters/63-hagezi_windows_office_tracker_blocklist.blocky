@@ -296,7 +296,6 @@
 *.adstore.response.gcp.eastus.trafficmanager.net
 *.telemetry.eastus.trafficmanager.net
 *.eventservice.trafficmanager.net
-*.fsad.trafficmanager.net
 *.ghochv3eng.trafficmanager.net
 *.glance-analytics.trafficmanager.net
 *.hk-tracker.trafficmanager.net
@@ -366,6 +365,7 @@
 *.rawtelemetry-east.servicebus.windows.net
 *.rawtelemetry-west.servicebus.windows.net
 *.ss-telemetry.servicebus.windows.net
+*.swiftanalyticsprod.servicebus.windows.net
 *.wayfinderanalytics.servicebus.windows.net
 *.c.xbox.com
 *.o.xbox.com

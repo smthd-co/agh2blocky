@@ -101,6 +101,8 @@
 *.nmetrics.samsung.com
 *.images.partnersupport.samsung.com
 *.plbusiness.samsung.com
+*.api.runestone.samsung.com
+*.di.runestone.samsung.com
 *.sca.samsung.com
 *.lp.smartbusiness.samsung.com
 *.tracking.smartbusiness.samsung.com
@@ -111,6 +113,7 @@
 *.samsungacr.com
 *.samsungads.com
 *.samsungallstore.com
+*.ureca.samsungapps.com
 *.acr-au-prd.samsungcloud.tv
 *.acr-br-prd.samsungcloud.tv
 *.acr-ca-prd.samsungcloud.tv

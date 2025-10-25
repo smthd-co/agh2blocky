@@ -15,7 +15,6 @@
 *.sdkapi.sms.mob.com
 *.stats.gov.cn
 *.tj.gov.cn
-*.sax.sina.com.cn
 *.news-app.abumedia.yql.yahoo.com
 *.meizu.coapi.moji.com
 *.passport.bobo.com
@@ -26,16 +25,11 @@
 *.skyapi.onedrive.live.com
 *.counter-strike.net
 *.ftp.bmp.ovh
-*.pic.iask.cn
 *.ad.cityu.edu.hk
 *.edge-enterprise.activity.windows.com
 *.edge.activity.windows.com
 *.skydrivesync.policies.live.net
 *.dxcloud.episerver.net
-*.static3.iask.cn
-*.login-ishare.iask.com.cn
-*.wechat.ishare.iask.com.cn
-*.dw.iask.com.cn
 *.settings-win.data.microsoft.com
 *.insideruser.microsoft.com
 *.s.mvconf.f.360.cn
@@ -43,8 +37,6 @@
 *.future.biz.weibo.com
 *.ad-putting.gw.zt-express.com
 *.ads.privacy.qq.com
-*.rocket.chat
-*.download.falco.org
 *.ad-block.dns.adguard.com
 *.app.powerbi.com
 *.tube.e.kuaishou.com
