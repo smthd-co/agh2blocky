@@ -37,6 +37,7 @@
 *.raka.bing.com
 *.c.bingapis.com
 *.insights.cloud.microsoft
+*.westus-0.in.applicationinsights.azure.com.drandts.co.uk
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
 *.analytics.live.com
@@ -287,7 +288,6 @@
 *.analytics.trafficmanager.net
 *.analytics-listener.trafficmanager.net
 *.beacons.trafficmanager.net
-*.bf-analytics-tracker-tm.trafficmanager.net
 *.bingads.trafficmanager.net
 *.ch-asimov-leafs-events-data.trafficmanager.net
 *.collector-main.trafficmanager.net
