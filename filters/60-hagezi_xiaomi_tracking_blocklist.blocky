@@ -230,8 +230,7 @@
 *.in-miuilog.sms.intl.xiaomi.com
 *.sec-cdn.static.intl.xiaomi.net
 *.sys.intl.xiaomi.com
-*.h5-ru.video.intl.xiaomi.com
-*.ru.video.intl.xiaomi.com
+*.video.intl.xiaomi.com
 *.secure.report.iss.xiaomi.com
 *.a.market.xiaomi.com
 *.drm.market.xiaomi.com

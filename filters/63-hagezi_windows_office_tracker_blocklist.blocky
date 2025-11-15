@@ -142,6 +142,8 @@
 *.pipe.aria.microsoft.com
 *.collector.azure.microsoft.cloud
 *.collector.azure.microsoft.scloud
+*.azurewatson.microsoft.com
+*.azurewatsontest.microsoft.com
 *.bingads.microsoft.com
 *.c1.microsoft.com
 *.track.notif.careersppe.microsoft.com

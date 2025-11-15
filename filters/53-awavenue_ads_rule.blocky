@@ -25,6 +25,7 @@
 *.ad.qingting.fm
 *.ad.qq.com
 *.ad.richmob.cn
+*.ad.shunchangzhixing.com
 *.ad.tencentmusic.com
 *.ad.toutiao.com
 *.ad.v3mh.com
@@ -95,8 +96,8 @@
 *.adsebs.ximalaya.com
 *.adsense.google.cn
 *.adserver.unityads.unity3d.com
-*.adservice.google.cn
 *.adservice.google.com
+*.adservice.sigmob.cn
 *.adserviceretry.kugou.com
 *.adsfile.bssdlbig.kugou.com
 *.adsfile.qq.com
@@ -128,6 +129,7 @@
 *.advertising.yandex.ru
 *.advice-ads.s3.amazonaws.com
 *.adview.cn
+*.adx-ad.smart-tv.cn
 *.adx-bj-req.anythinktech.com
 *.adx-bj.anythinktech.com
 *.adx-cn.anythinktech.com
@@ -191,6 +193,7 @@
 *.api.installer.xiaomi.com
 *.api.jietuhb.com
 *.api.kingdata.ksyun.com
+*.api.shanghailingye.cn
 *.api.ssp.xcultur.com
 *.api.statsig.com
 *.api.touch-moblie.com
@@ -203,6 +206,7 @@
 *.applog.zijieapi.com
 *.applovin.com
 *.appversion.115.com
+*.aqyad.com
 *.aspect-upush.umeng.com
 *.auction.unityads.unity3d.com
 *.audid-api.taobao.com
@@ -246,7 +250,6 @@
 *.cbjs.baidu.com
 *.ccc-x.jd.com
 *.ccs.umeng.com
-*.cctv.adsunion.com
 *.cdn-ad.wtzw.com
 *.cdn-ads.oss-cn-shanghai.aliyuncs.com
 *.cdn-f.adsmoloco.com
@@ -260,7 +263,6 @@
 *.cfg.imtt.qq.com
 *.chat1.jd.com
 *.chiq-cloud.com
-*.cj.qidian.com
 *.ck.ads.oppomobile.com
 *.click.chinaliftoff.io
 *.click.googleanalytics.com
@@ -268,6 +270,7 @@
 *.click.oneplus.cn
 *.click4.chinaliftoff.io
 *.clog.miguvideo.com
+*.cloooud.com
 *.cn-api.anythinktech.com
 *.cnlogs.umeng.com
 *.cnlogs.umengcloud.com
@@ -283,7 +286,6 @@
 *.crash2.zhihu.com
 *.crashlyticsreports-pa.googleapis.com
 *.csjplatform.com
-*.cws-cctv.conviva.com
 *.d.applvn.com
 *.da.anythinktech.com
 *.data-sdk-uuid-log.d.meituan.net
@@ -293,6 +295,7 @@
 *.data.mistat.rus.xiaomi.com
 *.data.mistat.xiaomi.com
 *.datacollection.uve.weibo.com
+*.dc.sigmob.cn
 *.de.tynt.com
 *.diagnosis.ad.xiaomi.com
 *.dig.bdurl.net
@@ -322,6 +325,7 @@
 *.events-drcn.op.dbankcloud.cn
 *.events.reddit.com
 *.events.redditmedia.com
+*.fancyapi.com
 *.fclog.baidu.com
 *.feed-image.baidu.com
 *.file.daihuo.qq.com
@@ -345,7 +349,6 @@
 *.ggx03.miguvideo.com
 *.globalapi.ad.xiaomi.com
 *.google-analytics.com
-*.googleads.g.doubleclick.com
 *.googleads.g.doubleclick.net
 *.googleadservices-cn.com
 *.googleadservices.com
@@ -409,7 +412,6 @@
 *.iot-logser.realme.com
 *.ipv4.kkmh.com
 *.irc.qubiankeji.com
-*.itv2-up.openspeech.cn
 *.ixav-cse.avlyun.com
 *.iyfbodn.com
 *.janapi.jd.com
@@ -427,6 +429,8 @@
 *.ks-p2p.pull.yximgs.com
 *.ks.ferlytc.com
 *.ks.pull.yximgs.com
+*.launcher.smart-tv.cn
+*.launcherimg.smart-tv.cn
 *.lh3.googleadsserving.cn
 *.litchiads.com
 *.live-api.hktvmall.com
@@ -489,6 +493,7 @@
 *.miav-cse.avlyun.com
 *.micro-xdb.com
 *.mini-prog-drm.vodplayvideo.net
+*.mission-pub.smart-tv.cn
 *.miui-fxcse.avlyun.com
 *.mlog.bigda.com
 *.mnqlog.ldmnq.com
@@ -512,6 +517,7 @@
 *.mssdk.zijieapi.com
 *.mtj.baidu.com
 *.nadvideo2.baidu.com
+*.newvoice.chiq5.smart-tv.cn
 *.nex.163.com
 *.nmetrics.samsung.com
 *.notes-analytics-events.apple.com
@@ -527,6 +533,7 @@
 *.open.kuaishouzt.com
 *.open.kwaizt.com
 *.open.snssdk.com
+*.openadapi.fancydsp.com
 *.optimus-ads.amap.com
 *.orbit.jd.com
 *.oth.eve.mdt.qq.com
@@ -575,7 +582,6 @@
 *.res2.hubcloud.com.cn
 *.res3.hubcloud.com.cn
 *.resolve.umeng.com
-*.rev.aiclk.com
 *.review.gdtimg.com
 *.rlog.popin.cc
 *.rms-drcn.platform.dbankcloud.cn
@@ -591,7 +597,6 @@
 *.saas.hpplay.cn
 *.samsung-com.112.2o7.net
 *.samsungads.com
-*.sanme2.taisantech.com
 *.saxysec.com
 *.scs.openspeech.cn
 *.sdk-ab-config.qquanquan.com
@@ -624,13 +629,11 @@
 *.service.vmos.cn
 *.sf16-static.i18n-pglstatp.com
 *.shouji.sogou.com
-*.sigmob.cn
 *.sigmob.com
 *.skdisplay.jd.com
 *.sl.hpplay.cn
 *.slb-p2p.vcloud.ks-live.com
 *.smad.ms.zhangyue.net
-*.smart-tv.cn
 *.smartad.10010.com
 *.smetrics.samsung.com
 *.sms.ads.oppomobile.com
@@ -641,6 +644,7 @@
 *.stat.y.qq.com
 *.static-s.iqiyi.com
 *.static.ads-twitter.com
+*.statichf.shihuocdn.cn
 *.statics.woozooo.com
 *.stats.wp.com
 *.statsigapi.net
@@ -683,6 +687,7 @@
 *.tnc3-aliec2.bytedance.com
 *.tnc3-aliec2.snssdk.com
 *.tnc3-aliec2.toutiaoapi.com
+*.tnc3-aliec2.zijieapi.com
 *.tnc3-alisc1.bytedance.com
 *.tnc3-alisc1.snssdk.com
 *.tnc3-alisc1.toutiaoapi.com
@@ -736,6 +741,7 @@
 *.uranus.jd.com
 *.us.l.qq.com
 *.usr-api.aiclk.com
+*.utoken.umeng.com
 *.v.110route.cn
 *.v.adx.hubcloud.com.cn
 *.v1-ad.video.yximgs.com
