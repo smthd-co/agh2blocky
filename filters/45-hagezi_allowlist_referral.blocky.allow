@@ -239,6 +239,7 @@
 *.click.email.sonos.com
 *.click.emcom.bankofamerica.com
 *.click.fidelityinvestments.com
+*.click.figma.com
 *.click.holidayinnclubemail.com
 *.click.icptrack.com
 *.click.instantink.hpsmart.com
@@ -735,6 +736,8 @@
 *.track.prudigital.in
 *.track.pstmrk.it
 *.track.seadform.net
+*.track.sendlane.com
+*.track.sendlanedelivery.com
 *.track.shoparize.com
 *.track.smtp2go.net
 *.track.superdry.com
@@ -789,6 +792,8 @@
 *.trck.wargaming.net
 *.trk.affapp.io
 *.trk.affattr.com
+*.trk.bc.footlocker.com
+*.trk.bc.footlocker.de
 *.trk.clptrk.com
 *.trk.concthub.com
 *.trk.ecomm.lenovo.com

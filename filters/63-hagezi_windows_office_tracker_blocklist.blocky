@@ -351,6 +351,7 @@
 *.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 *.citrixanalyticseh.servicebus.windows.net
 *.citrixanalyticseh-alias.servicebus.windows.net
+*.citrixanalyticseh2.servicebus.windows.net
 *.citrixanalyticseh2-alias.servicebus.windows.net
 *.citrixanalyticsehaps.servicebus.windows.net
 *.citrixanalyticsehaps-alias.servicebus.windows.net
