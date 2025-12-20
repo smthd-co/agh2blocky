@@ -4965,6 +4965,7 @@
 *.analytics-api.dvdfab.cn
 *.analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 *.analytics-api.fishmax.sk
+*.analytics-api.gemcommerce.com
 *.analyticsapi.happypancake.net
 *.analytics-api.home-assistant.io
 *.analytics-api.inspirecleanenergy.com
@@ -8549,6 +8550,7 @@
 *.analytics.handsoffhosting.net
 *.analytics.handsoffsalestax.com
 *.analytics.hanlee.co
+*.analytics.hannaandersson.com
 *.analytics.hannes-volk.de
 *.analytics.hanoky.com
 *.analytics.hanseaticsoft.com
@@ -14637,6 +14639,7 @@
 *.analytics.unlock.sh
 *.analytics.unmad.in
 *.analytics.unsolvedhunts.com
+*.analytics.unstable.life
 *.analytics.untap.in
 *.analytics.unterhaltungsbox.com
 *.analytics.unterholzer.dev
@@ -16034,6 +16037,7 @@
 *.api.blog.zonaforte.com
 *.api.blog.zuremod.com
 *.api.boobluk.com
+*.api.boomtrain.com
 *.api.botafogofrsocialolimpico.com.br
 *.api.boutiquedanath.com.br
 *.api.br.ae.com
@@ -18646,7 +18650,6 @@
 *.blue.conchovalleyhomepage.com
 *.blueconic.com
 *.blueconic.net
-*.bluecore.com
 *.blue.counton2.com
 *.blue.cw33.com
 *.blue.cw39.com
@@ -18866,7 +18869,6 @@
 *.books-analytics-events.apple.com
 *.boomerang.dell.com
 *.boom.laravel.io
-*.boomtrain.com
 *.boost-analytics.com
 *.boost.beyondalpha.co
 *.boostbox.com.br
@@ -20111,6 +20113,7 @@
 *.cdcfg.jasmineandmarigold.com
 *.cdcgtm.webuildgood.com
 *.cddjj.kachava.com
+*.c.deadlinefunnel.com
 *.c.de.msn.com
 *.cdi.liqid.com
 *.c.disneystore.com
@@ -23942,7 +23945,6 @@
 *.customerinsight.co.kr
 *.customerinsights.ai
 *.customer.io
-*.customeriomail.com
 *.customerlabs.co
 *.customerlabs.com
 *.customer.newsflare.com
@@ -28081,7 +28083,6 @@
 *.detectdiscovery.com
 *.detection-api.next-90.com
 *.detect.ipipgo.com
-*.detik.net.id
 *.det-ta-g7g.amazon.com
 *.dev1.gearjunkie.com
 *.dev.amerikanu.nl
@@ -31854,6 +31855,7 @@
 *.forgetfulflowers.com
 *.forgetfulsnail.com
 *.forkmedia.in
+*.formalytics.dev
 *.formalyzer.com
 *.formanalytica.com
 *.form.creatable.com
@@ -44999,7 +45001,6 @@
 *.lrwmjfmq.prioritystdtesting.com
 *.ls3mg2ez.com
 *.ls5b8h4tr.com
-*.ls.apple.com
 *.lsbsg.entertainmentearth.com
 *.lsc-digital-public-health.de
 *.lsc-diph.de
@@ -59233,7 +59234,6 @@
 *.narratiive.com
 *.narrative.io
 *.narrativeresearch.ca
-*.narvar.com
 *.narwhal.bounty.studio
 *.narwhal.quickbudget.xyz
 *.na.shgcdn3.com
@@ -69279,7 +69279,6 @@
 *.px.0o0o.io
 *.px75-2-redsender.top
 *.p.xandar.org
-*.px-cdn.net
 *.pxchk.net
 *.px-cloud.net
 *.px.com
@@ -70051,6 +70050,7 @@
 *.realizevacation.com
 *.really.fi
 *.reallyfreegeoip.org
+*.realmagnet.land
 *.realproof.io
 *.realstats.dhgate.com
 *.real-time-analytics.com
@@ -70799,7 +70799,6 @@
 *.richinfo.co
 *.richmetrics.com
 *.richreceipt.com
-*.richrelevance.com
 *.richstring.com
 *.ric.riedel-immobilien.de
 *.ric.seeleben-starnbergersee.de
@@ -79313,6 +79312,7 @@
 *.sigma.cases.gg
 *.sigma.silverday.de
 *.signal-ai.com
+*.signalfx.com
 *.signalmedia.co
 *.signal-r-hub-bg.advisorengine.com
 *.signal-r-hub-blue.advisorengine.com
@@ -84744,11 +84744,6 @@
 *.split.io
 *.splk.it
 *.splkmobile.com
-*.splunkcloud.com
-*.splunk.com
-*.splunk.com.ag
-*.splunk.net.bz
-*.splunk.nom.es
 *.sp.maennerseite.net
 *.sp.malwarebytes.com
 *.sp.maxi.ca
@@ -104263,6 +104258,7 @@
 *.telemetry.svc.halowaypoint.com
 *.telemetry.svc.transifex.net
 *.telemetry.swe.quicinc.com
+*.telemetry.timescale.com
 *.telemetry.tradingview.com
 *.telemetry.us-ashburn-1.oci.oraclecloud.com
 *.telemetryverification.net
@@ -109534,6 +109530,7 @@
 *.verify.philippineairlines.com
 *.verifyvegetable.com
 *.verikai.com
+*.verint-cdn.com
 *.verint.com
 *.verisk.com
 *.verisk.co.uk
