@@ -126,7 +126,6 @@
 *.happy-sun-587.3kh0.org
 *.3proxy.de
 *.dns.3wv.de
-*.3x.nz
 *.dns.4-the.win
 *.vpn.4-the.win
 *.notfound-google.404.mn
@@ -209,6 +208,7 @@
 *.dns.abdullahabas.online
 *.abluehope.com
 *.dns.abppro.ru
+*.abpvn.org
 *.vn.dns.abpvn.com
 *.doh.abraservice.xyz
 *.res-acst1.absolight.net
@@ -466,6 +466,7 @@
 *.dns.asysec.com
 *.adguardhome.atakorah.com
 *.pulsewire.atamanco.eu
+*.shopinshops.atamanco.eu
 *.atlasvpn.com
 *.next.atomix.in
 *.vps.atomix.in
@@ -538,11 +539,7 @@
 *.adguard.baltes.info
 *.banana-vpn.com
 *.bananavpn.com
-*.fr-dns1.bancuh.com
-*.fr-dns2.bancuh.com
-*.jp-dns1.bancuh.com
-*.sg-dns1.bancuh.com
-*.sg-dns2.bancuh.com
+*.bancuh.com
 *.freshstats.banglaraloprotidin.com
 *.keenlogic.banglaraloprotidin.com
 *.nexthistory.banglaraloprotidin.com
@@ -850,6 +847,7 @@
 *.coolkidd.chickenkiller.com
 *.grapesceleste.lobo.chickenkiller.com
 *.andersonalcantara.my28.chickenkiller.com
+*.stranged.org.chickenkiller.com
 *.soulsorcereryt.chickenkiller.com
 *.doq.chikawa.cc
 *.dns.chilimac.net
@@ -1170,6 +1168,7 @@
 *.modernlogic.iceage.com.my
 *.itrsa.injectoclean.com.mx
 *.uptime.injectoclean.com.mx
+*.tasks.know.kabindrakajibajracharya.com.np
 *.dnssp.koretech.com.br
 *.arrakis.korolyzer.com.br
 *.lothuscorp.com.br
@@ -1237,7 +1236,6 @@
 *.cosmohacker.space
 *.adguardhome.fr.couli.fr
 *.coursera.gq
-*.coverproxy.com
 *.covertproxy.com
 *.doh.cox.net
 *.dot.cox.net
@@ -1248,7 +1246,9 @@
 *.e.cpfrx.info
 *.www.i.cpfrx.info
 *.104-36-85-232.cprapid.com
+*.fahh.crabdance.com
 *.lmasalaka.crabdance.com
+*.maselivolovesscience.crabdance.com
 *.nrusimha.crabdance.com
 *.random12.crabdance.com
 *.rammerhead.crackerstreams.org
@@ -1474,6 +1474,8 @@
 *.asdfghjkloiuytrewqzx.dinprima.ro
 *.travel-to-ur-lovely.collage.dinprima.ro
 *.elstafantactida.dinprima.ro
+*.vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro
+*.whyarewearewhatarewearewhatarewe.dinprima.ro
 *.dns.dionperera.com
 *.s6.dipper315.tech
 *.directoryproxy.info
@@ -1817,7 +1819,6 @@
 *.osefcorp.duckdns.org
 *.pitchforkwaydns.duckdns.org
 *.punono.duckdns.org
-*.quanmeme.duckdns.org
 *.rcpc2.duckdns.org
 *.salvadoserver.duckdns.org
 *.site-2.duckdns.org
@@ -1898,7 +1899,6 @@
 *.edgedcircles.com
 *.dns.edgeworkssystems.ca
 *.dns.edgy.network
-*.edgy-dns.com
 *.edpuzzle.space
 *.agh.amber.edu.vn
 *.adblocker.institutobancario.edu.mx
@@ -2019,6 +2019,7 @@
 *.adguard.exium.net
 *.dns.exonip.de
 *.expatshield.com
+*.englishnotesforhonors.explomillacura.cl
 *.expressapisv2.net
 *.expressvpn.com
 *.expressvpn.info
@@ -2134,7 +2135,6 @@
 *.flashputon.net
 *.doh.flashstart.com
 *.flashvpn.li
-*.dns.flatuslifir.is
 *.spyro-the-bat.fleuryk.ovh
 *.spyrothebat.fleuryk.ovh
 *.vps.fleuryk.ovh
@@ -2164,7 +2164,7 @@
 *.rf4.forestberrypi.com
 *.www-rf4.forestberrypi.com
 *.forestvpn.com
-*.proxy.forkbomb.xyz
+*.thinggg.forever-20.com
 *.www-proxy.formen.cc
 *.disturbing-the-peace.foxgateway.com
 *.get-out-of-my-head-get-out-of-my-head.foxgateway.com
@@ -2436,6 +2436,7 @@
 *.dns.google.com
 *.google-public-dns-a.google.com
 *.google-public-dns-b.google.com
+*.phosphor-pa.googleapis.com
 *.dns-tunnel-check.googlezip.net
 *.tunnel.googlezip.net
 *.goosevpn.com
@@ -2452,7 +2453,6 @@
 *.gotrusted.com
 *.gowork.info
 *.gpreport.us
-*.gracarno.com
 *.graef.in
 *.grammarhelpers.com
 *.adguard.grantbruneau.com
@@ -2515,6 +2515,7 @@
 *.h0w.cc
 *.adguard.h22designs.com
 *.lo.h2tmt.cn
+*.yryeeisreallystupid.h4ck.me
 *.adg-nl.h4nt3r.com
 *.adg-swe.h4nt3r.com
 *.adguard.h4nt3r.com
@@ -2645,6 +2646,7 @@
 *.dd.hlm.ovh
 *.hmavpn.com
 *.adguard.hoangcongchuc.com
+*.notavalidlink.hobbygame.dev
 *.pihole1.hoerli.net
 *.pihole2.hoerli.net
 *.pihole3.hoerli.net
@@ -2699,7 +2701,6 @@
 *.hotbot.com
 *.hotbotvpn.com
 *.hotfreevpn.com
-*.purchase-some.hotglue.click
 *.hotspotshield.com
 *.hotspotvpn.com
 *.dns.hotta.page
@@ -2787,7 +2788,6 @@
 *.home.fc.idv.tw
 *.tls.jackyhou.idv.tw
 *.adguard.shuting.idv.tw
-*.worldbookonline.ignorelist.com
 *.adguard.ihatemy.live
 *.dns.ihaveacloud.com
 *.learningwiki.iiiii.info
@@ -2826,6 +2826,7 @@
 *.indiaproxy.win
 *.indo-ssh.com
 *.dns.indybanipal.com
+*.chddschoolinfo.info.gf
 *.dns.inforlogia.com
 *.doh.infotechlibrary.com
 *.doh.infracell.net
@@ -3028,7 +3029,6 @@
 *.dns.jundev.org
 *.ashleykipo.jundy.org
 *.dns.jungle-im.ir
-*.jupitervpn.ninja
 *.dns.jupitrdns.com
 *.juproxy.com
 *.jp01.just-a-web.com
@@ -3038,6 +3038,7 @@
 *.justcors.com
 *.ad.justincounts.com
 *.dns.justinnetworkingsolutions.com
+*.chemistrytheoandalgebra.justlearning.net
 *.coolmanbartx.justlearning.net
 *.nxmevip.justlearning.net
 *.saugatproxm.justlearning.net
@@ -3120,7 +3121,6 @@
 *.dns1.kla44.de
 *.dns1.klcd.eu
 *.dns2.klcd.eu
-*.klcknerrip.com
 *.adguard.kngnet.de
 *.knight1.de
 *.knvpn.net
@@ -3532,7 +3532,6 @@
 *.movieproxy.com
 *.vpn.mozilla.org
 *.dns.mrkaran.dev
-*.sail.msg.boats
 *.adguard.kazantsev97.msk.ru
 *.msr177.com
 *.dns.msxnet.ru
@@ -3605,6 +3604,7 @@
 *.myip.io
 *.myip-proxy.info
 *.myiphide.com
+*.prep.brain.mymiddlebury.com
 *.walker.mynetgear.com
 *.kyotocatholicchurch.myogaya.jp
 *.blackhole.myon.lu
@@ -4069,8 +4069,6 @@
 *.panskeet.xyz
 *.dns.panszelescik.pl
 *.dns-ovh.panszelescik.pl
-*.pantavv.xyz
-*.pantoto.xyz
 *.papaproxy.net
 *.papervpn.info
 *.paradise-human.shop
@@ -4127,6 +4125,7 @@
 *.photonsecure.com
 *.phpbido.com
 *.phproxysite.com
+*.utopia.ub.phuri.cc
 *.piaproxy.com
 *.piaproxy.net
 *.adguard.piekacz.pl
@@ -4367,7 +4366,6 @@
 *.proxyfactory.io
 *.proxyfish.com
 *.proxyflows.com
-*.proxyforfree.eu
 *.proxyfort.com
 *.proxyfree.org
 *.proxyfreeonly.com
@@ -4534,6 +4532,7 @@
 *.adguard.rabmoor.cz
 *.racevpn.com
 *.dns.api.rackspacecloud.com
+*.school.edu.radix-site.com
 *.radmin-vpn.com
 *.radmin-vpn.org
 *.radminvpn.org
@@ -4592,7 +4591,6 @@
 *.x.res.wang
 *.dns.resoft.org
 *.menu.resolve.bar
-*.resolver.arpa
 *.restaurantgift.us
 *.dnspub.restena.lu
 *.dns.retakecs.com
@@ -4928,7 +4926,6 @@
 *.001.smallnode.net
 *.smartcamp.su
 *.smartdnsproxy.com
-*.onlyforschool123.smarter-homes.com
 *.lunarsync.smartfoloo.space
 *.dns.smartguard.io
 *.smartproxy.com
@@ -4977,6 +4974,7 @@
 *.spacevpn.io
 *.spanish101.college
 *.sparklabs.com
+*.adguard.sparshbajaj.me
 *.lomoff.spb.ru
 *.wifrousl.spdns.de
 *.doh-01.spectrum.com
@@ -5052,9 +5050,11 @@
 *.eu2-browse.startpage.com
 *.eu3-browse.startpage.com
 *.proxy1.startpage.com
+*.proxy2.startpage.com
 *.proxy3.startpage.com
+*.proxy5.startpage.com
 *.s4-us2.startpage.com
-*.us1-browse.startpage.com
+*.us-browse.startpage.com
 *.us2-browse.startpage.com
 *.dns.startupstack.tech
 *.starvpn.com
@@ -5389,7 +5389,6 @@
 *.toptip.cc
 *.topvpn.cc
 *.topvpnguides.com
-*.tor2web.fi
 *.tor2web.io
 *.tor2web.it
 *.tor2web.org
@@ -5401,6 +5400,7 @@
 *.torproject.org
 *.torrentproxy.co
 *.torrentproxy.net
+*.torry.io
 *.torservers.net
 *.torsona.com
 *.torvpn.com
@@ -5460,7 +5460,6 @@
 *.tuantran.cloud
 *.tubeprox.com
 *.tubeunblock.me
-*.tubeunblock.net
 *.freodore.tulanerw.org
 *.tunnelbear.com
 *.justdoit.tuquy.com
@@ -5904,7 +5903,6 @@
 *.dns.vps.pw
 *.antispam.vpsvpn.com
 *.vrehm.fr
-*.go.vrpyourself.online
 *.vtcuong.site
 *.vuivn.site
 *.vultrusercontent.com
