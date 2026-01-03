@@ -1199,6 +1199,7 @@
 *.tinder.com
 *.tinderoplus.com
 *.tinderphotos-d1-ue1.s3.amazonaws.com
+*.tinderphotos.s3.amazonaws.com
 *.todomaduras.es
 *.togethernetworks.com
 *.toietmoi.fr

@@ -304,7 +304,8 @@
 *.cldata-ads-ru.heytapmobile.com
 *.conf-in-dc.heytapmobile.com
 *.u-id.cpc.heytapmobile.com
-*.dc.heytapmobile.com
+*.obus-in.dc.heytapmobile.com
+*.obus-sg.dc.heytapmobile.com
 *.dc-stat-in.heytapmobile.com
 *.dragate-in-dc.heytapmobile.com
 *.api-id.game.heytapmobile.com
