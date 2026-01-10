@@ -210,9 +210,6 @@
 *.ad.msn.com
 *.adevents.msn.com
 *.ads.msn.com
-*.ads1.msn.com
-*.ads2.msn.com
-*.analytics.msn.com
 *.metric.appex-rf.msn.com
 *.c.ar.msn.com
 *.arc.msn.com
@@ -263,7 +260,7 @@
 *.preview.msn.com
 *.c.prodigy.msn.com
 *.c.pt.msn.com
-*.r.msn.com
+*.bat.r.msn.com
 *.rads.msn.com
 *.rel.msn.com
 *.rmads.msn.com
@@ -367,6 +364,7 @@
 *.hme-live-loganalytics-namespace.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
+*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net
