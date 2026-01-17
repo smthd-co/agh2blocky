@@ -252,7 +252,6 @@
 *.browser.events.data.msn.com
 *.browsercfg-drcn.cloud.dbankcloud.cn
 *.bsrv.qq.com
-*.bugly.qq.com
 *.business-api.tiktok.com
 *.c.bidtoolads.com
 *.c.etoolads.cn
@@ -421,6 +420,7 @@
 *.impression-asia.liftoff.io
 *.impression.appsflyer.com
 *.in.treasuredata.com
+*.ios.bugly.qq.com
 *.iot-eu-logser.realme.com
 *.iot-logser.realme.com
 *.ipv4.kkmh.com
