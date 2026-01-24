@@ -7286,6 +7286,7 @@
 *.analytics.e2estudios.com
 *.analytics.e2time.io
 *.analytics.eaglecomelko.com
+*.analytics.eamonlooney.com
 *.analytics.ean.org
 *.analytics.earthweb.nl
 *.analytics.easyapotheke.ag
@@ -15607,6 +15608,7 @@
 *.analytics.zeus-soft.com
 *.analytics.zeyenbaumann.lu
 *.analytics.zfl-berlin.org
+*.analytics-zg-api.test.zillow.net
 *.analytics.zhb.de
 *.analytics.zhdk.ch
 *.analytics.zhost.ovh
@@ -16620,6 +16622,7 @@
 *.api.peers.tv
 *.api.persoonaschool.com.br
 *.api.petloo.com.br
+*.api.pf.hibid.com
 *.api.pg.maggicaminhoes.com.br
 *.api.pharmgkb.org
 *.api.pilarglass.com.br
@@ -51846,6 +51849,7 @@
 *.metrics.curbed.com
 *.metrics.curiowellness.com
 *.metrics.currys.co.uk
+*.metrics.cursor.sh
 *.metrics.cycleworld.com
 *.metrics.cyrillus.de
 *.metrics.cytivalifesciences.com
@@ -61236,6 +61240,7 @@
 *.ota.mistergreen.nl
 *.ota.re-covers.nl
 *.otel-hfo.fareharbor.engineering
+*.otelrules.svc.static.microsoft
 *.oteplia.com
 *.otfim.gurunanda.com
 *.otfur.craneandcanopy.com
@@ -97439,6 +97444,7 @@
 *.stats.ieb.be
 *.stat.siementilasalo.fi
 *.stats.ifactory.net
+*.statsig.anthropic.com
 *.statsigapi.net
 *.statsig.com
 *.stats.iggdrasil.net
