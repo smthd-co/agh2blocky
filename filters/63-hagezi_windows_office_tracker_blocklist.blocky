@@ -18,6 +18,7 @@
 *.inference-app-gateway.eastus2.cloudapp.azure.com
 *.inference-app-gateway.koreacentral.cloudapp.azure.com
 *.inference-app-gateway.northeurope.cloudapp.azure.com
+*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 *.collector.azure.cn
 *.js.monitor.azure.com
 *.adsdkpreprod.azureedge.net

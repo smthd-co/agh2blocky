@@ -11901,6 +11901,7 @@
 *.analytics.pentoncem.com
 *.analytics.pentondes.com
 *.analytics.peppelpatta.nl
+*.analytics.peraichi.com
 *.analytics.perceptionbuilder.com
 *.analytics.perchlake.on.ca
 *.analytics.perfectweb.at
@@ -12408,6 +12409,7 @@
 *.analytics.r5c3.fr
 *.analytics.rabbit-systems.de
 *.analytics.rabble.coop
+*.analytics.rackarr.com
 *.analytics.raddy.one
 *.analytics.radialbog9.uk
 *.analytics.radiant.digital
@@ -19092,6 +19094,7 @@
 *.browser-intake-ap1-datadoghq.com
 *.browser-intake-datadoghq.com
 *.browser-intake-datadoghq.eu
+*.browser-intake-ddog-gov.com
 *.browser-intake-us3-datadoghq.com
 *.browser-intake-us5-datadoghq.com
 *.browser-updater.yandex.net
@@ -20651,8 +20654,8 @@
 *.check-my-ip.net
 *.check-offers.com
 *.checkoutanalytics-live.adyen.com
+*.checkoutanalytics-live-us.adyen.com
 *.checkpagerank.net
-*.check.peer2profit.site
 *.check.privadovpn.com
 *.checkshield.net
 *.checkstat.nl
@@ -21877,6 +21880,7 @@
 *.collect.cityfit.pl
 *.collect.climease.com
 *.collect.clogauoutlet.co.uk
+*.collect.commerce.godaddy.com
 *.collect.cottona.com
 *.collect.ddiu.io
 *.collect.declan.nl
@@ -22158,6 +22162,7 @@
 *.collect.sunwill.eu
 *.collect.thebilingualbookcompany.com
 *.collect.trekz.de
+*.collect.tudongchat.com
 *.collect.ureca-lab.com
 *.collect.us.moomoo.com
 *.collect.vans.com.cn
@@ -38156,6 +38161,7 @@
 *.included.ai
 *.inclusion.kit.org
 *.inco.clinicaincorpus.com.br
+*.incognia.com
 *.incogssr.boatrentalbali.com
 *.incoming-data-sense360.s3.amazonaws.com
 *.incoming-telemetry.thunderbird.net
@@ -38986,6 +38992,7 @@
 *.intellimenta.com
 *.intellimize.co
 *.intellimize.com
+*.intellimizeio.com
 *.intelli-static-bucket-prod.s3.amazonaws.com
 *.intel.morningstar.co.uk
 *.intel.web.noleggiare.it
@@ -44727,7 +44734,6 @@
 *.logger.yp.ca
 *.log.giacngo.vn
 *.log.giaoduc.net.vn
-*.logging.admicro.vn
 *.logging.apache.org
 *.logging.api.intuit.com
 *.logging-e2e.api.intuit.com
@@ -50533,6 +50539,7 @@
 *.mcgst.homedone.co.uk
 *.mchfp.pillarscientific.com
 *.mc.lesphinx-developpement.fr
+*.mcl.io
 *.mc.medicanow.com
 *.mcmetrika.ru
 *.mcomext01.com
@@ -53913,6 +53920,7 @@
 *.metrik.freitag.de
 *.metrik.kinematografie.org
 *.metrilo.com
+*.metrix.ancestry.com
 *.metrix.avon.uk.com
 *.metrix.brigalabs.com
 *.metrix-collector1.gamesalad.com
@@ -59921,6 +59929,7 @@
 *.nid.barrons.com
 *.nid.news.co.uk
 *.nid.the-sun.com
+*.nid.thesun.co.uk
 *.nid.thesun.ie
 *.nielsen-admosphere.cz
 *.nielsen.com
@@ -70658,6 +70667,7 @@
 *.r.envios.operadorapuntadeleste.com
 *.r.envios-sib.interseguro.com.pe
 *.r.envios.tnewsperu.com
+*.reo.dev
 *.repdata.12newsnow.com
 *.repdata.airforcetimes.com
 *.repdata.app.com
@@ -72401,6 +72411,7 @@
 *.s.acquire.io
 *.sa.crunchyroll.com
 *.sac.the-sun.com
+*.sac.thesun.co.uk
 *.sac.thesun.ie
 *.s.acuklinika.lv
 *.sa.dac.ac
@@ -72585,6 +72596,7 @@
 *.safe-browsing-quorum.ghostery.com
 *.safecount.net
 *.safegraph.com
+*.safehub.ru
 *.safe.joinmosaic.com
 *.safemetric.com
 *.safe-tracking.com
@@ -84374,13 +84386,13 @@
 *.snowplow.orwell.configura.com
 *.snowplow.peddle.com
 *.snowplow-pixel.tradingview.com
+*.snowplowprdnlb-1490493263.us-east-2.elb.amazonaws.com
 *.snowplow.prod.oneplatform.build
 *.snowplow.suamusica.com.br
 *.snowplow.swm.digital
 *.snowplow.testfinanceit.com
 *.snowplow.tophat.com
 *.snowplow.truepay.dev
-*.snowplow.trx.gitlab.net
 *.snowplow.uniid.it
 *.snowplow.visionplanner.nl
 *.snowplow.visma.com
@@ -85203,6 +85215,7 @@
 *.spurioussquirrel.com
 *.spurioussteam.com
 *.spuriousstranger.com
+*.spur.us
 *.sp.usatoday.com
 *.sputnik.ru
 *.sp.valumart.ca
@@ -90131,7 +90144,6 @@
 *.staging-counter.snackly.co
 *.staging.dallasnews.com
 *.staging.pandemic-panda.com
-*.staging-tracker.fyber.com
 *.s.tagove.com
 *.stag.sen.hr
 *.stag.sen-shop.cz
@@ -93254,7 +93266,6 @@
 *.statistics.47g.ch
 *.statistics.777partner.com
 *.statistics.8tech.de
-*.statistics.aatkit.com
 *.statistics.ab-an-die-sonne.ch
 *.statistics.abcsg.org
 *.statistics.academedia.se
@@ -103052,6 +103063,7 @@
 *.swellstocking.com
 *.swelteringsleep.com
 *.swelteringsmile.com
+*.swetrix.com
 *.s.wgalopie.pl
 *.s.wheels.ca
 *.swift.avenue.so
@@ -104598,6 +104610,7 @@
 *.telemetry.svc.halowaypoint.com
 *.telemetry.svc.transifex.net
 *.telemetry.swe.quicinc.com
+*.telemetry.threatdown.com
 *.telemetry.timescale.com
 *.telemetry.tradingview.com
 *.telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -105453,6 +105466,7 @@
 *.tm.gumtree.co.za
 *.tm.guystravel.fr
 *.tm.hertzreunion.com
+*.tm.humaneworld.org
 *.tmigd4xfs.com
 *.tmi.my529.org
 *.t.mindbodycheck.com
@@ -106241,7 +106255,6 @@
 *.tracker-aa.paf.es
 *.tracker.adapexads.io
 *.tracker.adex-rtb.com
-*.tracker.adotmob.com
 *.tracker.adreadyclick.com
 *.tracker.ads-bidfuse.com
 *.trackerads.com
@@ -106269,7 +106282,6 @@
 *.trackerapi.service.echobox.com
 *.tracker-app.com
 *.tracker.appgyver.com
-*.tracker.bannerflow.com
 *.tracker.beezup.com
 *.tracker.bidder-playdigo.com
 *.tracker.bigl.ua
@@ -107489,6 +107501,7 @@
 *.trackonomics.net
 *.track.onsitedealersolutions.com
 *.track.ooulet.com
+*.track.opentable.com
 *.track.opentable.com.mx
 *.track.opentable.de
 *.trackoptimise.com
@@ -108370,6 +108383,7 @@
 *.tr.whoopsee.it
 *.tr.www.cloudflare.com
 *.trx-cdn.zip.co
+*.trx.gitlab.net
 *.trx-hub.com
 *.trx.offersqube.com
 *.trx.theskyfallen.com
@@ -109154,6 +109168,7 @@
 *.umami.izrm.net
 *.umami.jamie96.com
 *.umami.jawira.com
+*.umami.jeffvli.org
 *.umami.jest.one
 *.umami.joickle.com
 *.umami.jro.li
@@ -112303,6 +112318,7 @@
 *.xxxcounter.de
 *.xxx-entertainment.top
 *.xxxstats.pro
+*.xxxtracking.com
 *.xy5evk7gf.com
 *.xy9plqmnb.com
 *.xyahug.luxuryonly.com
