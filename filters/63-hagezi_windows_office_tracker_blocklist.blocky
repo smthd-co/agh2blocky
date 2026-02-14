@@ -37,6 +37,8 @@
 *.g.bing.com
 *.raka.bing.com
 *.c.bingapis.com
+*.exo.nel.measure.office.net.sw.buhl-data.com
+*.teams.nel.measure.office.net.sw.buhl-data.com
 *.insights.cloud.microsoft
 *.westus-0.in.applicationinsights.azure.com.drandts.co.uk
 *.measure.office.net.edgesuite.net

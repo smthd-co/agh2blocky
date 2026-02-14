@@ -88,6 +88,7 @@
 *.authorizeddns.us
 *.autoipset.com
 *.avandns.com
+*.awiki.org
 *.ax.lt
 *.b0tnet.com
 *.b33r.us
@@ -262,7 +263,9 @@
 *.dhs.org
 *.digikabel.hu
 *.digitalgroupe.com
+*.diskstation.eu
 *.diskstation.me
+*.diskstation.org
 *.ditchyourip.com
 *.divx.se
 *.dlinkddns.com
@@ -325,6 +328,7 @@
 *.doyleandprendergast.com
 *.dp76.com
 *.dpcube.com
+*.dray-dns.de
 *.drayddns.com
 *.dropfiles.net
 *.drunkensailor.org
@@ -359,6 +363,7 @@
 *.dyn-access.org
 *.dyn-ip24.de
 *.dyn-o-saur.com
+*.dyn-vpn.de
 *.dynalias.com
 *.dynalias.net
 *.dynalias.org
@@ -425,6 +430,7 @@
 *.dynv4.net
 *.dynv6.com
 *.dynv6.net
+*.dynvpn.de
 *.dyyndns.net
 *.e-m-a-i-l.org
 *.e-romagnoli.com
@@ -645,6 +651,7 @@
 *.hiddencorner.org
 *.hijaxdesigns.com
 *.hin.tw
+*.hiprinter.com
 *.his.name
 *.hitremixes.com
 *.hldns.ru
@@ -906,6 +913,7 @@
 *.medittech.com
 *.mefound.com
 *.meicosoft.com
+*.mein-vigor.de
 *.melakaboy.com
 *.merseine.com
 *.merseine.org
@@ -949,6 +957,8 @@
 *.musterihizmetleri.com
 *.mwop.net
 *.my.to
+*.my-vigor.de
+*.my-wan.de
 *.my03.com
 *.myactivedirectory.com
 *.myaddr.dev
@@ -1305,6 +1315,9 @@
 *.surak.kz
 *.surfnet.ca
 *.swtest.ru
+*.syno-ds.de
+*.synology-diskstation.de
+*.synology-ds.de
 *.synoserver.com
 *.sysadminetworks.com
 *.system-ns.com
@@ -1364,6 +1377,7 @@
 *.ufcfan.org
 *.ufodns.com
 *.ugo.si
+*.uk.ms
 *.uk.to
 *.undo.it
 *.unibutton.com
