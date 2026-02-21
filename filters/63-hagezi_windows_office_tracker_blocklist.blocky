@@ -43,6 +43,14 @@
 *.westus-0.in.applicationinsights.azure.com.drandts.co.uk
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
+*.ecs.nel.measure.office.net.cn.intinfra.com
+*.exo.nel.measure.office.net.cn.intinfra.com
+*.identity.nel.measure.office.net.cn.intinfra.com
+*.m365cdn.nel.measure.office.net.cn.intinfra.com
+*.officehub.nel.measure.office.net.cn.intinfra.com
+*.spo.nel.measure.office.net.cn.intinfra.com
+*.teams.nel.measure.office.net.cn.intinfra.com
+*.wordonline.nel.measure.office.net.cn.intinfra.com
 *.analytics.live.com
 *.c.live.com
 *.location.live.net
