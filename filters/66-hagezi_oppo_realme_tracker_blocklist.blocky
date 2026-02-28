@@ -242,6 +242,7 @@
 *.mdp-usertrace-cn.heytapmobi.com
 *.obus-config-cn.heytapmobi.com
 *.obus-dc10-cn.heytapmobi.com
+*.obus-dc136101-cn.heytapmobi.com
 *.obus-dc2-cn.heytapmobi.com
 *.obus-dc20058-cn.heytapmobi.com
 *.obus-dc2007-cn.heytapmobi.com
@@ -249,6 +250,8 @@
 *.obus-dc20157-cn.heytapmobi.com
 *.obus-dc2020-cn.heytapmobi.com
 *.obus-dctech-cn.heytapmobi.com
+*.obus-dcyitai-cn.heytapmobi.com
+*.obus-dcyitai-in.heytapmobi.com
 *.obus-jssdk-cn.heytapmobi.com
 *.album-cn01a.ocloud.heytapmobi.com
 *.album-sg01a.ocloud.heytapmobi.com
