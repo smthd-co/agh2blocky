@@ -43,14 +43,9 @@
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
 *.measure.office.net.cn.intinfra.com
-*.ecs.nel.measure.office.net.cz.intinfra.com
-*.exo.nel.measure.office.net.cz.intinfra.com
-*.identity.nel.measure.office.net.cz.intinfra.com
-*.m365cdn.nel.measure.office.net.cz.intinfra.com
-*.officehub.nel.measure.office.net.cz.intinfra.com
-*.spo.nel.measure.office.net.cz.intinfra.com
-*.teams.nel.measure.office.net.cz.intinfra.com
-*.exo.nel.measure.office.net.in.intinfra.com
+*.measure.office.net.cz.intinfra.com
+*.measure.office.net.in.intinfra.com
+*.exo.nel.measure.office.net.us.intinfra.com
 *.analytics.live.com
 *.c.live.com
 *.location.live.net
