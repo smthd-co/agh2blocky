@@ -209,6 +209,7 @@
 *.t-ring-fdv2.msedge.net
 *.t-ring-s.msedge.net
 *.t-ring-s2.msedge.net
+*.t-ring-trafficshield.msedge.net
 *.t-s1-ring.msedge.net
 *.win10-trt.msedge.net
 *.ac2.msn.com
@@ -367,6 +368,7 @@
 *.citrixtelemetryeheu-alias.servicebus.windows.net
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 *.hme-live-loganalytics-namespace.servicebus.windows.net
+*.hme-uat-loganalytics-namespace.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
 *.prd-qlik-telemetry.servicebus.windows.net

@@ -260,6 +260,8 @@
 *.i-cn01a.ocloud.heytapmobi.com
 *.i-sg01a.ocloud.heytapmobi.com
 *.omes-sec.heytapmobi.com
+*.oversea-nebula-in.heytapmobi.com
+*.oversea-nebula-sg.heytapmobi.com
 *.dcintl.push.heytapmobi.com
 *.device-ups.push.heytapmobi.com
 *.id.push.heytapmobi.com
