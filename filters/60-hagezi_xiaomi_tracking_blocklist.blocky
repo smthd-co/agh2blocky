@@ -156,7 +156,6 @@
 *.global-ad-intl-pri-alisgp.alb.xiaomi.com
 *.awssgp0-files.fds.api.xiaomi.com
 *.cdn.fds.api.xiaomi.com
-*.cnbj1.fds.api.xiaomi.com
 *.awsusor0-cdn.fds-ssl.api.xiaomi.com
 *.cdn.fds-ssl.api.xiaomi.com
 *.mibi.api.xiaomi.com
