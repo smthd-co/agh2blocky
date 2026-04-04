@@ -1,4 +1,5 @@
 *.vhs.wwstat.com.eo.unicomcdn.com.cn
+*.adlog.vivo.com.cn
 *.adxlog-adnet.vivo.com.cn
 *.az.appstore.vivo.com.cn
 *.appstore-trace-h5sdk.vivo.com.cn
@@ -9,6 +10,7 @@
 *.trackercollect.ddxq.mobi
 *.trackerfeed.ddxq.mobi
 *.vhs.wwstat.com.eo.dnse0.com
+*.adlog.vivo.com
 *.ads-api.vivo.com
 *.asia-abeacdataonrt-stsdk.vivoglobal.com
 *.asia-abeacdataort-stsdk.vivoglobal.com
