@@ -143,7 +143,6 @@
 *.watson.live.com
 *.ads.microsoft.com
 *.adsdk.microsoft.com
-*.www.adsinapps.microsoft.com
 *.advertising.microsoft.com
 *.analyticspixel.microsoft.com
 *.applicationinsights.microsoft.com
@@ -218,10 +217,7 @@
 *.ad.msn.com
 *.adevents.msn.com
 *.ads.msn.com
-*.www.a.ads1.msn.com
-*.www.b.ads1.msn.com
-*.www.ads1.msn.com
-*.www.a.ads2.msn.com
+*.ads1.msn.com
 *.metric.appex-rf.msn.com
 *.c.ar.msn.com
 *.arc.msn.com
