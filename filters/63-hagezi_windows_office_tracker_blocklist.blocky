@@ -37,15 +37,9 @@
 *.g.bing.com
 *.raka.bing.com
 *.c.bingapis.com
-*.exo.nel.measure.office.net.sw.buhl-data.com
-*.teams.nel.measure.office.net.sw.buhl-data.com
 *.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
-*.measure.office.net.cn.intinfra.com
-*.measure.office.net.cz.intinfra.com
-*.measure.office.net.in.intinfra.com
-*.measure.office.net.us.intinfra.com
 *.analytics.live.com
 *.c.live.com
 *.location.live.net
@@ -361,6 +355,7 @@
 *.citrixanalyticseh-alias.servicebus.windows.net
 *.citrixanalyticseh2.servicebus.windows.net
 *.citrixanalyticseh2-alias.servicebus.windows.net
+*.citrixanalyticseh3-alias.servicebus.windows.net
 *.citrixanalyticsehaps.servicebus.windows.net
 *.citrixanalyticsehaps-alias.servicebus.windows.net
 *.citrixanalyticseheu.servicebus.windows.net

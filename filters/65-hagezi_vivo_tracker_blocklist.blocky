@@ -213,6 +213,7 @@
 *.tr-onrt-stsdk.vivoglobal.com
 *.tr-ort-stsdk.vivoglobal.com
 *.tr-p.vivoglobal.com
+*.tr-pnrt-stsdk.vivoglobal.com
 *.tr-romsp-unifyconfig.vivoglobal.com
 *.tr-st-sl.vivoglobal.com
 *.tr-st-sysupgrade.vivoglobal.com
@@ -225,6 +226,7 @@
 *.tr-weather.vivoglobal.com
 *.uk-timesync.vivoglobal.com
 *.err.up.vivoglobal.com
+*.xn--ex-adreq-asa-c5b.vivoglobal.com
 *.xn-ex-adreq-asa-c5b.vivoglobal.com
 *.za-p.vivoglobal.com
 *.zasc-cota.vivoglobal.com
