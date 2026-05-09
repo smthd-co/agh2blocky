@@ -16,10 +16,12 @@
 api.growthrx.in
 *.notif.generation-nt.com
 *.api-push.com
+*.bildirim.com.tr
 *.bildirimat.com
 *.bildirnet.com
 *.braze.com
 *.cappushino.com
+*.cdn.p-n.io
 *.cdn.qgr.ph
 *.cdn.qgraph.io
 *.centrnotify.com
@@ -140,7 +142,6 @@ api.growthrx.in
 *.danorenius.com
 *.digitalpush.org
 *.edrone.me
-*.face-push.com
 *.feedify.net
 *.feraciumus.com
 *.fernomius.com
@@ -204,8 +205,16 @@ api.growthrx.in
 *.push.neko-san.fr
 *.pushme.magellanotech.it
 *.widget.push.forja.ma
+yorker-push-init.js
 *.sdk.chirpyweb.com
 *.vafrike.ru
+*.townrdwarfer.com
+*.wstpush-mobile.terra.com
+*.martabackrock.com
+*.pushkite.com
+*.smbtnupsh.com
+*.dashboard.bildircin.az
+*.connect.cdnsb.net
 *.hotbbawese.cc
 *.qepolax.com
 *.tel1mekar.com
@@ -214,7 +223,6 @@ api.growthrx.in
 *.puhyjyf.com
 *.speraspace.com
 *.sendpush.net
-*.personaclick.com
 *.quickalert.org
 *.ziwelatum.com
 *.pushly.net
@@ -265,7 +273,6 @@ api.growthrx.in
 *.cdn.hostpush.info
 *.cdn.letreach.com
 *.cdn.mxapis.com
-*.cdn.p-n.io
 *.cdn.siteswithcontent.com
 *.cdnt.netcoresmartech.com
 *.celesterium.com
