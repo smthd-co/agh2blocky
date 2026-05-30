@@ -36,6 +36,12 @@
 *.g.bing.com
 *.raka.bing.com
 *.c.bingapis.com
+*.upload.fp.measure.office.com.corp.mmco.int.cardano.com
+*.exo.nel.measure.office.net.cardano.com
+*.identity.nel.measure.office.net.cardano.com
+*.m365cdn.nel.measure.office.net.cardano.com
+*.spo.nel.measure.office.net.cardano.com
+*.teams.nel.measure.office.net.cardano.com
 *.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
@@ -304,6 +310,7 @@
 *.analytics-listener.trafficmanager.net
 *.beacons.trafficmanager.net
 *.bingads.trafficmanager.net
+*.ch-asimov-leafs-events-data.trafficmanager.net
 *.collector-main.trafficmanager.net
 *.dsp-ad-cache-tm.trafficmanager.net
 *.eventservice.trafficmanager.net
@@ -355,6 +362,7 @@
 *.citrixtelemetryeheu-alias.servicebus.windows.net
 *.ehtelemetrystaging-alias.servicebus.windows.net
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+*.hme-live-loganalytics-namespace.servicebus.windows.net
 *.hme-uat-loganalytics-namespace.servicebus.windows.net
 *.licensingtelemetry-prod.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
