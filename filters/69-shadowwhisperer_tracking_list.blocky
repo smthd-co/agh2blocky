@@ -5777,6 +5777,7 @@
 *.analytics.bnaucler.se
 *.analytics.bnbhosting.de
 *.analytics.bnj.ch
+*.analytics.bobman.dev
 *.analytics.bodendesign-warnken.de
 *.analytics.bodgingbear.dev
 *.analytics.bodygraph.com
@@ -13431,6 +13432,7 @@
 *.analytics.si21.com
 *.analytics.si5m.me
 *.analytics.sia-france.fr
+*.analytics.siamrington.com
 *.analytics.siapicha.pro
 *.analytics.siap.id
 *.analytics.sibelkekilli.com
@@ -15049,6 +15051,7 @@
 *.analytics.vfsd.de
 *.analytics.vgiscience.org
 *.analytics.vgl.org
+*.analytics.vgtimes.com
 *.analytics.vhs-nrw.de
 *.analytics.viadelweb.cloud
 *.analytics.via-les-herbes.com
@@ -15379,6 +15382,7 @@
 *.analytics.weebdigital.com
 *.analytics.weeblr.net
 *.analytics.weeby.studio
+*.analytics.weed.hk
 *.analytics.weelo.fit
 *.analytics.weexjob.com
 *.analytics.wefnexus.org
@@ -15664,6 +15668,7 @@
 *.analytics.xpressify.com
 *.analytics.xrdgraphite.com
 *.analytics.xritaly.it
+*.analytics.xronos.ch
 *.analytics.xscreenattribution.com
 *.analytics.x-serv24.de
 *.analytics.xseu.net
@@ -15720,6 +15725,7 @@
 *.analytics.yorhost.eu
 *.analytics.yorkstatebank.com
 *.analytics.yorktondigital.ca
+*.analytics.youall.com.ua
 *.analytics.youandmedigital.net
 *.analytics.youji.pro
 *.analytics.youlife.rocks
@@ -21171,6 +21177,7 @@
 *.clickam.es
 *.clickanalytic.com
 *.clickapis.com
+*.click.appwonders.org
 *.click.avenuehomes.net
 *.clickbrainiacs.com
 *.click.brand.klarna.com
@@ -26234,6 +26241,7 @@
 *.datadoghq-browser-agent.com
 *.datadoghq.com
 *.datadoghq.eu
+*.datadog.pool.ntp.org
 *.datadogsux.com
 *.datadogsux.net
 *.data.doktorselz-shop.de
@@ -46534,6 +46542,7 @@
 *.marketing.wbresearch.com
 *.marketingwebanalytics.com
 *.marketing.webgruppen.no
+*.marketing.whitewallsolutions.com
 *.marketing.whysymphony.com
 *.marketing.willamettewines.com
 *.marketing.wilmingtonandbeaches.com
@@ -60650,6 +60659,7 @@
 *.nodbledp.com
 *.nod.caracda.de
 *.node41.aizhantj.com
+*.node93.aizhantj.com
 *.node.cciesecurity.net
 *.node.ccie.store
 *.nodetime.com
@@ -69910,6 +69920,7 @@
 *.pro.wildpacificwhalewatch.com
 *.proxcactus.com
 *.proxem.com
+*.proxima.ai
 *.proximic.com
 *.proxnodded.com
 *.proxomnibusborn.com
@@ -77640,6 +77651,7 @@
 *.serv.matchaao.com
 *.servmetric.com
 *.serv.oakwell.com
+*.servo-report.dvdfab.cn
 *.servo-report.keepstreams.com
 *.servo-report.streamfab.com
 *.serv.paulacunha.com.br
@@ -95223,6 +95235,7 @@
 *.stats.07131.net
 *.stats0.mydevil.net
 *.stats.0n.ro
+*.stats.0ut3r.space
 *.stats.0x00.fi
 *.stats.0x010c.fr
 *.stats.0xbadc0de.be
@@ -102140,6 +102153,7 @@
 *.stats.webefox.fr
 *.stats.webetdesign.com
 *.stats.webfederatie.nl
+*.stats.webfrequent.de
 *.stats.webful.uk
 *.stats.webgames.io
 *.stats-web.gresille.org
@@ -106521,7 +106535,6 @@
 *.tofu-ssl.dmcdn.net
 *.together.caringcomm.org
 *.together.westtytherley.com
-*.toggl.com
 *.toifeeds.indiatimes.com
 *.tojdz.sillysanta.nl
 *.token.boh.com
@@ -106760,6 +106773,7 @@
 *.trace.qq.com
 *.tracer51.h-cast.jp
 *.tracerequest.designerapp.officeapps.live.com
+*.tracer.q-pri.com
 *.traces.ai
 *.traces.sr.roku.com
 *.trace.svc.ui.com
@@ -106770,6 +106784,7 @@
 *.tracingsampler-events.g.ebay.com
 *.tracing.yelp.com
 *.track.01icon.hk
+*.track19.libracams.com
 *.track1.avplayer.com
 *.track1.jijyun.cn
 *.track1.relationshop.net
@@ -110207,6 +110222,7 @@
 *.umami.miaopu.xyz
 *.umami.mmcwilliams.com
 *.umami.mobilemarkup.com
+*.umami.molodetz.nl
 *.umami.monitoring.yanzi.cloud
 *.umami.munozhouse.com
 *.umami.murphdevane.com
@@ -110218,15 +110234,18 @@
 *.umami.nilni.com
 *.umami.nils.moe
 *.umami-nine-olive.vercel.app
+*.umami.ninerealmlabs.com
 *.umami.no404.tk
 *.umami.nordiskehandel.cloud
 *.umami.oc-digital.de
 *.umami.odcrawler.xyz
+*.umami.oiste.ro
 *.umami.on.wpdock.de
 *.umami.orangc.net
 *.umami.orzgk.com
 *.umami.oyo.cool
 *.umami.paradigma.education
+*.umami.parkshare.net
 *.umami.parthpatel.net
 *.umami.paulwicke.com
 *.umami.pdserver.de
@@ -110250,6 +110269,7 @@
 *.umami-prod.up.railway.app
 *.umami.progettodighe.it
 *.umami.psaux.io
+*.umami.purplebros.net
 *.umami.pyry.me
 *.umami.pythonunited.com
 *.umami.qiekub.org
@@ -110261,11 +110281,13 @@
 *.umami.s4ku.com
 *.umami.sages.pl
 *.umami.seeyue.top
+*.umami.seindigital.com
 *.umami.selectcode.dev
 *.umami.shy.cz
 *.umami.silviacanelon.com
 *.umami.sleevenote.com
 *.umami.smartz.cloud
+*.umami.smthdiff.com
 *.umami.sp-codes.de
 *.umami.speakup.nl
 *.umami.stealthagents.us
@@ -110289,6 +110311,7 @@
 *.umami.thomasbnt.dev
 *.umami.thomasrosen.me
 *.umami.torrtle.co
+*.umami.trsh.im
 *.umami.tteld.com
 *.umami.tucmi.de
 *.umami.tweetmonk.com
@@ -110315,6 +110338,7 @@
 *.umami.zeitgeist-info.com
 *.umami.zhanxw.com
 *.umami.zonecraft.es
+*.umami.zrf.me
 *.umami.zz.hubs.vn
 *.umani.api.route.run
 *.um.aquevix.com

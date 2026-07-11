@@ -47,6 +47,7 @@
 *.auc-visio-telemetry.officeapps.live.com
 *.brc-visio-telemetry.officeapps.live.com
 *.cac-visio-telemetry.officeapps.live.com
+*.chc-visio-telemetry.officeapps.live.com
 *.dec-visio-telemetry.officeapps.live.com
 *.euc-excel-telemetry.officeapps.live.com
 *.euc-onenote-telemetry.officeapps.live.com
@@ -333,7 +334,6 @@
 *.stats-partner.trafficmanager.net
 *.teams-events-data.trafficmanager.net
 *.telemetry-lcp.trafficmanager.net
-*.tenmax-ads.trafficmanager.net
 *.tm-analytics-pr.trafficmanager.net
 *.tm-enrollment-telemetry-datacore.trafficmanager.net
 *.us-mesh-events-data-leafs.trafficmanager.net

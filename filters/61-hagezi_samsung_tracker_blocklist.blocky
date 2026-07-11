@@ -92,8 +92,11 @@
 *.bldr.mkt.samsung.com
 *.analytics.mpay.samsung.com
 *.images.partnersupport.samsung.com
+*.dc.di.runestone.samsung.com
+*.dls.di.runestone.samsung.com
+*.orsdls.di.runestone.samsung.com
+*.orsfs.di.runestone.samsung.com
 *.api.runestone.samsung.com
-*.di.runestone.samsung.com
 *.lp.smartbusiness.samsung.com
 *.tracking.smartbusiness.samsung.com
 *.images.ssbusiness.samsung.com
