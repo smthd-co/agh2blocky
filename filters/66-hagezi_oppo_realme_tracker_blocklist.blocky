@@ -292,6 +292,9 @@
 *.report-eu.uc.heytapmobile.com
 *.report-in.uc.heytapmobile.com
 *.report-sg.uc.heytapmobile.com
+*.ad-growth-in.heytapmobile.com
+*.ad-growth-ru.heytapmobile.com
+*.ad-growth-sg.heytapmobile.com
 *.ads.heytapmobile.com
 *.ads-bdapi-my.heytapmobile.com
 *.ads-bdapi-ph.heytapmobile.com
