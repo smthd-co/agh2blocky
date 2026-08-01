@@ -39,6 +39,7 @@
 *.exo.nel.measure.office.net.cardano.com
 *.identity.nel.measure.office.net.cardano.com
 *.m365cdn.nel.measure.office.net.cardano.com
+*.officehub.nel.measure.office.net.cardano.com
 *.spo.nel.measure.office.net.cardano.com
 *.teams.nel.measure.office.net.cardano.com
 *.insights.cloud.microsoft
@@ -119,6 +120,7 @@
 *.sgtus1-excel-telemetry-vip.officeapps.live.com
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.sgtus1-word-telemetry-vip.officeapps.live.com
+*.telemetry.officeapps.live.com
 *.tgtus1-excel-telemetry-vip.officeapps.live.com
 *.tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.tgtus1-word-telemetry-vip.officeapps.live.com
