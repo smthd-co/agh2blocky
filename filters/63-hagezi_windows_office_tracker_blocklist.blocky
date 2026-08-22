@@ -45,6 +45,7 @@
 *.teams.nel.measure.office.net.cardano.com
 *.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
+*.westeurope-5.in.applicationinsights.azure.com.fiege.de
 *.collector.azure.eaglex.ic.gov
 *.auc-visio-telemetry.officeapps.live.com
 *.brc-visio-telemetry.officeapps.live.com
@@ -325,7 +326,6 @@
 *.irreverselookuptm.trafficmanager.net
 *.ism-telemetry.trafficmanager.net
 *.legacywatson.trafficmanager.net
-*.o365diagtelemetry.trafficmanager.net
 *.office-events-data.trafficmanager.net
 *.oms-analytics.trafficmanager.net
 *.pixel-sync.trafficmanager.net
