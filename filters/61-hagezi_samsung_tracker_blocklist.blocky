@@ -9,7 +9,6 @@
 *.samsung.bimtrackapp.co
 *.cn-api.mcsvc.samsung.com.cn
 *.smetrics.samsung.com.cn
-*.push.samsungosp.com.cn
 *.samsungott.sora.yoyi.com.cn
 *.fast.samsungsingapore.demdex.net
 *.samsung.demdex.net
@@ -116,6 +115,7 @@
 *.acr-in-prd.samsungcloud.tv
 *.acr-kr-prd.samsungcloud.tv
 *.acr-mx-prd.samsungcloud.tv
+*.acr-nz-prd.samsungcloud.tv
 *.acr-us-prd.samsungcloud.tv
 *.acr0.samsungcloudsolution.com
 *.devicelog.samsungcloudsolution.net
