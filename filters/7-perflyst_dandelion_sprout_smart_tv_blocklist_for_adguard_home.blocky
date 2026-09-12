@@ -54,7 +54,7 @@ lgtvsdp.com
 *.pipeaota.com
 *.premium-videos.telly.com
 *.prov.samsungcloudsolution.com
-*.rwww.samsungotn.net
+*.www.samsungotn.net
 *.samsungacr.com
 *.samsungadhub.com
 samsungcloudsolution.com
@@ -137,4 +137,5 @@ samsungqbe.com
 *.tracking.intl.miui.com
 *.sdkconfig.ad.intl.xiaomi.com
 *.androidtvchannels-pa.googleapis.com
+*.androidtvlauncherxfe-pa.googleapis.com
 *.androidtvwatsonfe-pa.googleapis.com

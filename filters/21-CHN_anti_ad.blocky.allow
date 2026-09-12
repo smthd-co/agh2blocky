@@ -1,4 +1,5 @@
 *.ad.azure.com
+*.ads.finance
 *.ads.taboola.com
 *.autocomplete.clearbit.com
 *.chart-embed.service.newrelic.com
