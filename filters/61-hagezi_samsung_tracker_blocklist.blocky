@@ -121,6 +121,7 @@
 *.prderrordumphsm.samsungcloudsolution.com
 *.prderrordumpssm.samsungcloudsolution.net
 *.report.gras.samsungdm.com
+*.us-report.gras.samsungdm.com
 *.diagmon-policy.samsungdm.com
 *.diagmon-serviceapi.samsungdm.com
 *.dev-apigw.samsungdmroute.com

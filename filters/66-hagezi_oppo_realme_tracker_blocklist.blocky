@@ -101,7 +101,6 @@
 *.foreign.coloros.com
 *.guif.coloros.com
 *.guif-eu.coloros.com
-*.icosa-sg.coloros.com
 *.icota-eu.coloros.com
 *.ifrus.coloros.com
 *.ifrus-eu.coloros.com
@@ -250,6 +249,7 @@
 *.id.push.heytapmobi.com
 *.userprofile.push.heytapmobi.com
 *.api-id.theme.heytapmobi.com
+*.adm-smc-cn.heytapmobi.com
 *.ads.heytapmobi.com
 *.dc-dragate-cn.heytapmobi.com
 *.dcc-awareness-cn.heytapmobi.com
@@ -287,6 +287,7 @@
 *.api-gl.cdo.heytapmobile.com
 *.api-id.cdo.heytapmobile.com
 *.api-in.cdo.heytapmobile.com
+*.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
 *.u-id.cpc.heytapmobile.com
 *.api-id.game.heytapmobile.com
 *.report-in.opay.heytapmobile.com
@@ -311,6 +312,7 @@
 *.adx-op-in.heytapmobile.com
 *.adx-op-ru.heytapmobile.com
 *.adx-op-sg.heytapmobile.com
+*.adx-u-ru.heytapmobile.com
 *.adx-u-sg.heytapmobile.com
 *.adxu-bigo-sg.heytapmobile.com
 *.bdapi-ads-sg.heytapmobile.com
