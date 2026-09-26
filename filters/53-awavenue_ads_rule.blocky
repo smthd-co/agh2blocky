@@ -135,6 +135,7 @@
 *.adsfs.oppomobile.com
 *.adslvfile.qq.com
 *.adsmart.konka.com
+*.adsmartget.datads.cn
 *.adsmind.gdtimg.com
 *.adsmind.ugdtimg.com
 *.adsmoloco.com
@@ -569,6 +570,7 @@
 *.monitor.uu.qq.com
 *.monsetting.toutiao.com
 *.mores.toponad.com
+*.mpcfg.fancydsp.com
 *.ms.applvn.com
 *.ms4.applvn.com
 *.msdk.voiceads.cn
@@ -620,6 +622,8 @@
 *.pgdt.gtimg.cn
 *.pgdt.ugdtimg.com
 *.pglstatp-toutiao.com
+*.pica-a-display.diwodiwo.xyz
+*.pica-ad-api.diwodiwo.xyz
 *.pig.pupuapi.com
 *.pin.hpplay.cn
 *.pixon.ads-pixiv.net
@@ -669,11 +673,14 @@
 *.scs.openspeech.cn
 *.sdk-ab-config.qquanquan.com
 *.sdk-cache.video.ptqy.gitv.tv
+*.sdk-track.66mobi.com
 *.sdk.1rtb.net
 *.sdk.ad.smaato.net
+*.sdk.adhuanxiao.com
 *.sdk.cferw.com
 *.sdk.e.qq.com
 *.sdk.hzsanjiaomao.com
+*.sdk.hzzfcm.com
 *.sdk.markmedia.com.cn
 *.sdk.mobads.adwangmai.com
 *.sdkapp.uve.weibo.com
@@ -861,6 +868,7 @@
 *.wxsnsdy.tc.qq.com
 *.wxsnsdy.wxs.qq.com
 *.wxsnsdythumb.wxs.qq.com
+*.xadsmartget.adgain.cn
 *.xc.gdt.qq.com
 *.xcx.dcad01.com
 *.xiaomi-dtv.m.cn.miaozhen.com

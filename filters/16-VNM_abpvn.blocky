@@ -229,6 +229,7 @@ oadz.com
 optaim.com
 optimix.asia
 responsys.net
+tanx.com
 thoughtleadr.com
 unimhk.com
 unlitui.com
@@ -984,8 +985,6 @@ bat.r.msn.com
 r.msn.com
 ads.bing.com
 adserver.bing.com
-bat.bing.com
-c.bing.com
 aan.amazon.com
 mads.amazon.com
 device-metrics-us-2.amazon.com
@@ -998,6 +997,8 @@ amazon-adsystem.amazon.com
 ads.amazon.dev
 advertising.amazon.dev
 api.imdb.eu-west-1.prod.paets.advertising.amazon.dev
+bdtelemetry.amazon
+api.mshop.bdtelemetry.amazon
 assoc-amazon.com
 wms.assoc-amazon.com
 ws-fe.assoc-amazon.com
@@ -1113,6 +1114,9 @@ advice-ads.s3.amazonaws.com
 analytics.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 sprocket-ping.s3.amazonaws.com
+ad-host-backup-america.s3.us-west-1.amazonaws.com
+ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 prod.cm.publishers.advertising.a2z.com
 prod.tahoe-analytics.publishers.advertising.a2z.com
 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
@@ -1220,6 +1224,7 @@ xml.affiliate.rakuten.co.jp
 rat.rakuten.co.jp
 secure.rat.rakuten.co.jp
 an.facebook.com
+analytics.facebook.com
 pixel.facebook.com
 o.update.fbsbx.com
 p.update.fbsbx.com
@@ -7838,6 +7843,7 @@ iad-03.braze.com
 iad-04.braze.com
 iad-05.braze.com
 iad-06.braze.com
+iad-07.braze.com
 iad-08.braze.com
 sdk.iad-01.braze.com
 sdk.iad-02.braze.com
@@ -7845,11 +7851,8 @@ sdk.iad-03.braze.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk.iad-06.braze.com
+sdk.iad-07.braze.com
 sdk.iad-08.braze.com
-belgikanst.iad-03.braze.com
-gaspra.iad-03.braze.com
-rest.iad-03.braze.com
-serpens.iad-01.braze.com
 fra-01.braze.eu
 sdk.fra-01.braze.eu
 fra-02.braze.eu
@@ -9462,12 +9465,25 @@ tsg-hdp-raw-log.ap-southeast-1.log.aliyuncs.com
 tva-igame-global-ipa-0001.us-east-1.log.aliyuncs.com
 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
+cn-hangzhou.log.aliyuncs.com
+cbu-offer.cn-shanghai.log.aliyuncs.com
+cbu-search-app.cn-shanghai.log.aliyuncs.com
+client-upload.cn-shanghai.log.aliyuncs.com
+wireless-app-log.cn-hangzhou.log.aliyuncs.com
+log-global.aliyuncs.com
+adsplusadx-prod.log-global.aliyuncs.com
+crown-client.log-global.aliyuncs.com
+dcsz-gamelog-yyzdsy-kr.log-global.aliyuncs.com
+dida-function-log-hz.log-global.aliyuncs.com
+hishort-video.log-global.aliyuncs.com
+hoyodesk-app-log.log-global.aliyuncs.com
+india-service-log.log-global.aliyuncs.com
+oneconsole-blank-log.log-global.aliyuncs.com
+room-event.log-global.aliyuncs.com
+tva-satanpit-global-ipa-0001.log-global.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
-ad-host-backup-america.s3.us-west-1.amazonaws.com
-ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
-ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 analytics.userreport.com
 bapi.userreport.com
 cdn.userreport.com
@@ -10965,14 +10981,19 @@ aidata.io
 x01.aidata.io
 arcspire.io
 px.arcspire.io
+cdn.tanx.com
+click.tanx.com
 cms.tanx.com
 df.tanx.com
 ef-dongfeng.tanx.com
 et.tanx.com
-ifsk2.tanx.com
+ifs.tanx.com
 kgb-ifs.tanx.com
+live-ifs.tanx.com
+opehs.tanx.com
 p.tanx.com
-tanx.com
+rdstat.tanx.com
+sdk-config.tanx.com
 mediav.com
 ckmap.mediav.com
 yodimedia.com
@@ -11705,6 +11726,8 @@ s3-ca-liveops.easybrain.com
 s3-playable-ads.easybrain.com
 orion.bendingspoons.com
 storage.orion.bendingspoons.com
+bzr.openai.com
+bzrcdn.openai.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -13837,6 +13860,7 @@ ads.activestate.com
 ads.adadapted.com
 ads.adfox.ru
 ads.administrator.de
+ads.adspro.name
 ads.adstream.com.ro
 ads.adultfriendfinder.com
 ads.advance.net
@@ -14287,6 +14311,7 @@ afrxixlnj.com
 afzotfwramzy.in
 agacelebir.com
 aggravatingoil.com
+agileskincareunrented.com
 agle21xe2anfddirite.com
 agorahtag.tech
 agqoshfujku.com
@@ -14354,6 +14379,7 @@ amuletgloom.com
 amunfezanttor.com
 ancotvpaxoz.com
 anewfeedliberty.com
+anlxwagwa.in
 annihilativefaltermillion.com
 annonser.dagbladet.no
 anrdoezrs.net
@@ -14628,6 +14654,7 @@ bfwzpynoz.com
 bg4nxu2u5t.com
 bharalhallahs.com
 bhcumsc.com
+bhjkpnfsgejvo.com
 bicolourprepossessstrong.com
 bid.glass
 bidclickmedia.com
@@ -14733,6 +14760,7 @@ broadcastbed.com
 broaddoor.com
 broadensilkslush.com
 broadlyjukeboxunrevised.com
+broadsidedaisysanta.com
 bronzecedarleaf.com
 browsecoherentunrefined.com
 browser-update.org
@@ -15319,9 +15347,11 @@ dreadedrevisablevest.com
 dreamcatcherbnbcolorado.com
 dreamlikefostergala.com
 drenchedtidyarticle.com
+driverhugoverblown.com
 drubpainch.com
 drumcash.com
 drydrum.com
+dryhachug.in
 ds88pc0kw6cvc.cloudfront.net
 dsp.wtf
 dtv5loup63fac.cloudfront.net
@@ -15414,6 +15444,7 @@ emblemexceptionscorer.com
 emediate.dk
 emerse.com
 emxdigital.com
+en.dobytowsy.com
 endlesshandbaglinked.com
 endowmentoverhangutmost.com
 endurosweekday.com
@@ -15577,6 +15608,7 @@ frightenedpotato.com
 frivolousdrinkloss.com
 frs2c.com
 fruhujma.in
+frykyuoqcto.com
 fsavmklplmddsu.com
 fsxmidyo.com
 ft.budtawney.com
@@ -15730,6 +15762,7 @@ gunggo.com
 guppymedia.com
 gv.habitanchowses.cyou
 gwallet.com
+gxzkljfo.com
 gy.anaheimnonfat.com
 gylxwpwabgp.com
 gzaqwebtipm.com
@@ -15840,6 +15873,7 @@ hwuhkabi.in
 hxgqqxopf.com
 hybrid.ai
 hydramedia.com
+hyoswaxrtfvq.com
 hypelab.com
 hyperbanner.net
 hypermusk.com
@@ -16104,6 +16138,7 @@ kvkaa.com
 kw3y5otoeuniv7e9rsi.com
 kx.upturnsidoist.cyou
 kykay.com
+kypwvjoni.com
 kzuocxorfo.com
 laceassumestatic.com
 lactolwant.com
@@ -16682,6 +16717,7 @@ optmd.com
 optmstr.com
 opvanillishan.com
 opzazcvitci.com
+oqhbgxvk.com
 oranegfodnd.com
 orangeads.fr
 orb92.com
@@ -16860,6 +16896,7 @@ plista.com
 pltraffic8.com
 plufdsb.com
 plugrush.com
+plummypokefunbenefit.com
 plusungratefulinstruction.com
 pnhoppacwh.com
 pnuhondppw.com
@@ -17172,6 +17209,7 @@ revive-adserver.net
 revmasters.com
 revstats.com
 reyeshehadtwobri.com
+rh.wallahrana.cfd
 rhiowzaht.com
 rhymezebra.com
 rhythmnewmedia.com
@@ -17996,6 +18034,7 @@ voupsauk.com
 vpn-explained.com
 vpon.com
 vr.ringentkenlore.com
+vr5ip6ntb529k.2uhxnrj7qreorju4xfq.cfd
 vrs.cz
 vs.tucows.com
 vsgdodqfjpdws.space
@@ -18351,6 +18390,7 @@ zwiweqftobuvd.space
 zwnoeqzsuz.com
 zxc.world
 zxgkuhqwwtcvc.website
+zyuwjxerthht.com
 2xclick.ru
 3gl.net
 a.apkpure.com
@@ -18481,7 +18521,6 @@ blue.thehill.com
 blueconic.net
 blueoyster.click
 business.yingliangads.com
-c.riskified.com
 c2i-cdn.startappnetwork.com
 cadmus.script.ac
 cc.swiftype.com
@@ -18835,7 +18874,6 @@ risk.clearbit.com
 rlog.9gag.com
 rochesterdata.com
 roistat.com
-rs6.net
 rsrly.com
 rt.rtoaster.jp
 rta.dailymail.co.uk

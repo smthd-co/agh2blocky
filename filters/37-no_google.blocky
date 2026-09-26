@@ -39,7 +39,6 @@
 *.chromexperiments.com
 *.cloud.run
 *.com.google
-*.content-signature-chains.prod.webservices.mozgcp.net
 *.digitalkeypairing.org
 *.face-indexing.com
 *.face-mining.com
@@ -1593,8 +1592,6 @@
 *.cellular-coverage.nest.com
 *.certified.nest.com
 *.community.nest.com
-*.developer.nest.com
-*.developers.nest.com
 *.downloads.nest.com
 *.email1.nest.com
 *.energy.api.nest.com
