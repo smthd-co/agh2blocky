@@ -9,7 +9,6 @@
 *.js0.tst.applicationinsights.io
 *.js1.tst.applicationinsights.io
 *.js2.tst.applicationinsights.io
-*.api.applicationinsights.azure.cn
 *.dc.applicationinsights.azure.cn
 *.dc.applicationinsights.azure.us
 *.in.applicationinsights.azure.cn
@@ -122,7 +121,6 @@
 *.sgtus1-excel-telemetry-vip.officeapps.live.com
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.sgtus1-word-telemetry-vip.officeapps.live.com
-*.telemetry.officeapps.live.com
 *.tgtus1-excel-telemetry-vip.officeapps.live.com
 *.tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.tgtus1-word-telemetry-vip.officeapps.live.com
@@ -264,7 +262,6 @@
 *.arc1.msn.com
 *.arc2.msn.com
 *.arc3.msn.com
-*.arc5.msn.com
 *.arc9.msn.com
 *.confiant.msn.com
 *.flex.msn.com
@@ -340,7 +337,7 @@
 *.win-global-asimov-leafs-events-data.trafficmanager.net
 *.wttwebsiteprodapi-liveevents.trafficmanager.net
 *.dc.services.visualstudio.com
-*.h4g3z1-native.winoffice.web.app
+*.h4g3z1-native-winoffice.web.app
 *.ceuswatcab01.blob.core.windows.net
 *.ceuswatcab02.blob.core.windows.net
 *.eaus2watcab01.blob.core.windows.net
@@ -371,7 +368,6 @@
 *.licensingtelemetry-prod.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
-*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net

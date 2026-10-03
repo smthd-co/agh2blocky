@@ -251,6 +251,7 @@
 *.api-id.theme.heytapmobi.com
 *.adm-smc-cn.heytapmobi.com
 *.ads.heytapmobi.com
+*.apisnd.heytapmobi.com
 *.dc-dragate-cn.heytapmobi.com
 *.dcc-awareness-cn.heytapmobi.com
 *.iot-earbuds-cn.heytapmobi.com
@@ -306,6 +307,7 @@
 *.ads-bdapi-ph.heytapmobile.com
 *.ads-bdapi-th.heytapmobile.com
 *.ads-bdapi-vn.heytapmobile.com
+*.ads-cps-in.heytapmobile.com
 *.adx-ads-fr.heytapmobile.com
 *.adx-ads-ru.heytapmobile.com
 *.adx-op-fr.heytapmobile.com
@@ -481,6 +483,6 @@
 *.dhfs-vn.oppomobile.com
 *.dhfsf.oppomobile.com
 *.sea-log-rcv.vansound.com
-*.h4g3z1-native.oppo-realme.web.app
+*.h4g3z1-native-oppo-realme.web.app
 *.finosfin.com
 *.hizonetech.com

@@ -53,6 +53,7 @@
 *.asia-vcode-or.vivoglobal.com
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
+*.br-cota.vivoglobal.com
 *.br-p.vivoglobal.com
 *.cn-zh-ort-stsdk.vivoglobal.com
 *.cn-zh-prt-stsdk.vivoglobal.com
@@ -67,7 +68,10 @@
 *.cname-in-bom01-nginxpool03.vivoglobal.com
 *.cname-in-ctdbonrt-stsdk.vivoglobal.com
 *.cname-sin01-stsdk09.vivoglobal.com
+*.co-cota.vivoglobal.com
 *.co-domaincfg.vivoglobal.com
+*.co-onrt-stsdk.vivoglobal.com
+*.co-ort-stsdk.vivoglobal.com
 *.co-pnrt-stsdk.vivoglobal.com
 *.co-romsp-unifyconfig.vivoglobal.com
 *.co-st-sl.vivoglobal.com
@@ -75,7 +79,9 @@
 *.co-timesync.vivoglobal.com
 *.co-vcode-api.vivoglobal.com
 *.co-vcode-od.vivoglobal.com
+*.co-vcode-or.vivoglobal.com
 *.de-gdpr-err-up.vivoglobal.com
+*.de-gdpr-vcode-api.vivoglobal.com
 *.err-up.vivoglobal.com
 *.eu-album-api.vivoglobal.com
 *.eu-cota.vivoglobal.com
@@ -107,6 +113,7 @@
 *.in-apport-stsdk.vivoglobal.com
 *.in-apppnrt-stsdk.vivoglobal.com
 *.in-appprt-stsdk.vivoglobal.com
+*.in-cfg-stsdk.vivoglobal.com
 *.in-cota.vivoglobal.com
 *.in-ctdbonrt-stsdk.vivoglobal.com
 *.in-ctdbort-stsdk.vivoglobal.com
@@ -230,5 +237,5 @@
 *.zasc-vcode-api.vivoglobal.com
 *.zasc-vcode-od.vivoglobal.com
 *.zasc-vcode-or.vivoglobal.com
-*.h4g3z1-native.vivo.web.app
+*.h4g3z1-native-vivo.web.app
 *.vhs.wwstat.com
