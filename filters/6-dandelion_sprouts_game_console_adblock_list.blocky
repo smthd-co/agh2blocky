@@ -11,3 +11,7 @@
 *.telemetry-cii.api.playstation.com
 *.at.atwola.com
 *.nw-umwatson.events.data.microsoft.com
+images-eds-ssl.xboxlive.com
+*.vortex.data.microsoft.com
+*.vortex-win.data.microsoft.com
+*.telemetry.microsoft.com
