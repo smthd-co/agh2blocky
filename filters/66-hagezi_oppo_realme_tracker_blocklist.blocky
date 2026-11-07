@@ -289,6 +289,7 @@
 *.api-id.cdo.heytapmobile.com
 *.api-in.cdo.heytapmobile.com
 *.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
+*.adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com
 *.u-id.cpc.heytapmobile.com
 *.api-id.game.heytapmobile.com
 *.report-in.opay.heytapmobile.com
@@ -317,6 +318,8 @@
 *.adx-u-in.heytapmobile.com
 *.adx-u-ru.heytapmobile.com
 *.adx-u-sg.heytapmobile.com
+*.adx-union-sg.heytapmobile.com
+*.adxh3-op-sg.heytapmobile.com
 *.adxu-bigo-sg.heytapmobile.com
 *.bdapi-ads-sg.heytapmobile.com
 *.browser-api-br.heytapmobile.com
