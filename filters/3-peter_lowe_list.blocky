@@ -657,7 +657,6 @@
 *.adserver.o2.pl
 *.adserver.oddschecker.com
 *.adserver.omroepzeeland.nl
-*.adserver.otthonom.hu
 *.adserver.pampa.com.br
 *.adserver.piksel.mk
 *.adserver.pl
@@ -992,7 +991,6 @@
 *.banners.adultfriendfinder.com
 *.banners.amigos.com
 *.banners.asiafriendfinder.com
-*.banners.babylon-x.com
 *.banners.bol.com.br
 *.banners.cams.com
 *.banners.czi.cz
@@ -1312,6 +1310,7 @@
 *.cnt1.pocitadlo.cz
 *.cnvlink.com
 *.cny.yoyo.org
+*.coalmerchants.com
 *.code.etracker.com
 *.codeadnetwork.com
 *.cognitiv.ai
@@ -1694,7 +1693,6 @@
 *.freepay.com
 *.freestats.com
 *.freestats.tv
-*.freewebcounter.com
 *.freewheel.com
 *.freewheel.tv
 *.freezingbuilding.com
@@ -2016,11 +2014,13 @@
 *.largebrass.com
 *.laughcloth.com
 *.launchbit.com
+*.layer-ad.de
 *.layer-ads.de
 *.lazybumblebee.com
 *.lbn.ru
 *.lead02.com
 *.leadboltads.net
+*.leadclick.com
 *.leadinfo.net
 *.leadingedgecash.com
 *.leadplace.fr
@@ -2071,9 +2071,9 @@
 *.linkprice.com
 *.linkrain.com
 *.linkreferral.com
+*.links-ranking.de
 *.links.email.crunchbase.com
 *.links.housekeep.com
-*.links.prosservice.fr
 *.links.zoopla.co.uk
 *.linksoutside.com
 *.linkstable.com
@@ -2082,6 +2082,7 @@
 *.linksynergy.com
 *.linktarget.com
 *.linkvertise.com
+*.liquidad.narrowcastmedia.com
 *.litix.io
 *.live.trmzum.com
 *.liveadexchanger.com
@@ -2382,6 +2383,7 @@
 *.offerforge.com
 *.offermatica.com
 *.offers.gateway-lts450.com
+*.offers.ltsc-has.com
 *.offshoregeology.com
 *.ogads-pa.googleapis.com
 *.oglasi.posjetnica.com
@@ -2649,6 +2651,7 @@
 *.quirkysugar.com
 *.quisma.com
 *.quizzicalzephyr.com
+*.r.brandreward.com
 *.r.drinksdirect.net
 *.r.logrocket.io
 *.r.marketing.dubaisothebys.com
@@ -2775,7 +2778,6 @@
 *.rtbadzesto.com
 *.rtbflairads.com
 *.rtbplatform.net
-*.rtbpop.com
 *.rtmark.net
 *.rtxplatform.com
 *.ru4.com
@@ -2788,6 +2790,7 @@
 *.rundsp.com
 *.ruralrobin.com
 *.s.adroll.com
+*.s.appreports.net
 *.s.dmmew.com
 *.s.uuidksinc.net
 *.s20dh7e9dh.com
@@ -2939,6 +2942,7 @@
 *.sparklingshelf.com
 *.sparkstudios.com
 *.speakol.com
+*.speciesjewelry.com
 *.specificmedia.co.uk
 *.specificpop.com
 *.speedomizer.com
@@ -3478,7 +3482,6 @@
 *.www.photo-ads.co.uk
 *.www8.glam.com
 *.wwwpromoter.com
-*.x-traceur.com
 *.x6.yakiuchi.com
 *.xad.com
 *.xapads.com

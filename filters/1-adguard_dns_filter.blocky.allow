@@ -9,6 +9,7 @@
 *.buyad.bi-xenon.cn
 *.captcha.su.baidu.com
 *.img.ads.tvb.com
+*.analytics.cibc.com
 *.unsubscribe.email.premierleague.com
 *.data.email.premierleague.com
 *.spartaindependent.com
@@ -20,6 +21,7 @@
 *.partner.o2online.de
 *.data.notify.macys.com
 *.om-ssl.consorsbank.de
+api.taboola.com
 cdn.taboola.com
 *.unsubscribe.lhinsights.com
 *.belgium.wolterskluwer.com
